@@ -11,7 +11,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 37 | Google| [Power set](Recursion/37_power_set.py) | [solution](Recursion/37_power_set.py) |
 | 38 | Microsoft| [N queen](Recursion/38_n_queen.py) | [solution](Recursion/38_n_queen.py) |
 | 41 | Facebook| [flight iternary](Arrays/41_flight_iternary.py) | [solution](Arrays/41_flight_iternary.py) |
-| 38 | Microsoft| [sunset add to target](Recursion/42_subset_adds_to_k.py) | [solution](Recursion/42_subset_adds_to_k.py) |
+| 42 | Google| [sunset add to target](Recursion/42_subset_adds_to_k.py) | [solution](Recursion/42_subset_adds_to_k.py) |
 
 
 ## How to contribute
