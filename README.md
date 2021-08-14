@@ -5,4 +5,4 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 
 |  # | Company                   | Description               | Solution                               |
 |----|---------------------------|---------------------------|----------------------------------------|
-| 33 | [Microsoft]| running median of a sequence](Arrays/33_running_median.py) | [solution](Arrays/33_running_median.py) |
+| 33 | Microsoft| [running median of a sequence](Arrays/33_running_median.py) | [solution](Arrays/33_running_median.py) |
