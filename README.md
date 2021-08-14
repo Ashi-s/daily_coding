@@ -3,6 +3,6 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 
 ### Daily Coding Problems
 
-|  # | Description               | Solution                               |
-|----|---------------------------|----------------------------------------|
-| 01 | [Interleave the elements of a stack using a queue](Arrays/33_running_median.py) | [solution]((Arrays/33_running_median.py) |
+|  # | Company                   | Description               | Solution                               |
+|----|---------------------------|---------------------------|----------------------------------------|
+| 33 | [Microsoft]| running median of a sequence](Arrays/33_running_median.py) | [solution](Arrays/33_running_median.py) |
