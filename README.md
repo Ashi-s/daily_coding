@@ -15,6 +15,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 
 ## Recursion
 |  # | Description               | Solution |
+|----|---------------------------|---------------------------|
 | 1  | [Airthmetic slices](Recursion/airthmetic_slices.py) | [solution](Recursion/airthmetic_slices.py) |
 | 2  | [Buy Stock 1](Recursion/buy_stock_1.py) | [solution](Recursion/buy_stock_1.py) |
 | 3  | [Coin change](Recursion/coinchange.py) | [solution](Recursion/coinchange.py) |
