@@ -42,7 +42,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 24  | [House Robber ](Recursion/pick_dont_pick.py) | [solution](Recursion/pick_dont_pick.py) |
 | 24  | [Pow(x, n) ](Recursion/pow.py) | [solution](Recursion/pow.py) |
 | 25  | [Subsets II ](Recursion/subset_II.py) | [solution](Recursion/subset_II.py) |
-| 25  | [Triangle ](Recursion/trianglr.py) | [solution](Recursion/trianglr.py) |
+| 26  | [Triangle ](Recursion/trianglr.py) | [solution](Recursion/trianglr.py) |
 
 
 
