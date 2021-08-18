@@ -1,3 +1,8 @@
+# Given an unsorted integer array nums, return the smallest missing positive integer.
+
+# You must implement an algorithm that runs in O(n) time and uses constant extra space.
+
+
 #linear time & constant space
 # For example, the input [3, 4, -1, 1] should give 2. The input [1, 2, 0] should give 3.
 
@@ -15,13 +20,11 @@ def minNumber(l):
 
 #M2
 def min2(nums):
-    print('inside min2')
     counter = 0
     for i in range(len(nums)):
         correctPos = nums[i]-1
         while 1 <= nums[i] <= len(nums) and nums[i] != nums[correctPos]:
             counter += 1
-            print('inside while', nums)
             nums[i], nums[correctPos] = nums[correctPos], nums[i]
             correctPos = nums[i] - 1
             print(nums[i], nums[nums[i]-1] )

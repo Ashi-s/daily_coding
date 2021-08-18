@@ -15,10 +15,10 @@ def helper(res, s, index, curr, max_len):
     print(i, curr)
     res.append(''.join(curr))
     if is_palindrome(''.join(curr)):
-      print('inside is_palindrome')
+      # print('inside is_palindrome')
       if max_len < len(curr):
         max_len = len(curr)
-        print('inside max_len', max_len, len(curr))
+        # print('inside max_len', max_len, len(curr))
     helper(res, s, i+1, curr, max_len)
     curr.pop()
 

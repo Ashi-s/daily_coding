@@ -1,4 +1,5 @@
 # x^n
+# Implement pow(x, n), which calculates x raised to the power n (i.e., xn).
 
 #m1
 # recurrence relation
