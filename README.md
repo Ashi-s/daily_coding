@@ -24,7 +24,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 6  | [Combination Sum 2](Recursion/combination_II.py) | [solution](Recursion/combination_II.py) |
 | 7  | [Combinations ](Recursion/combination_n_k.py) | [solution](Recursion/combination_n_k.py) |
 | 8  | [Factorial ](Recursion/factorial.py) | [solution](Recursion/factorial.py) |
-| 9  | [Factorial ](Recursion/fibonacci.py) | [solution](Recursion/fibonacci.py) |
+| 9  | [Fibonnaci ](Recursion/fibonacci.py) | [solution](Recursion/fibonacci.py) |
 | 10  | [Flood fill ](Recursion/flood_fill.py) | [solution](Recursion/flood_fill.py) |
 | 11  | [Frog Jump ](Recursion/frog.py) | [solution](Recursion/frog.py) |
 | 12  | [Generate all substrings ](Recursion/generate_all_substring.py) | [solution](Recursion/generate_all_substring.py) |
