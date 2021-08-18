@@ -35,8 +35,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 17  | [Making A Large Island ](Recursion/making_a_large_island.py) | [solution](Recursion/making_a_large_island.py) |
 | 18  | [Maximal Square ](Recursion/maximal_square.py) | [solution](Recursion/maximal_square.py) |
 | 19  | [First Missing Positive ](Recursion/min_number.py) | [solution](Recursion/min_number.py) |
-| 20  | [Minimum Falling Path Sum ](Recursion/minimum_path_sum.py) | [solution](Recursion/minimum_path_sum.py) |
-| 21  | [Minimum Falling Path Sum ](Recursion/minimum_path_sum.py) | [solution](Recursion/minimum_path_sum.py) |
+| 20  | [Minimum Falling Path Sum ](Recursion/minimum_falling_path_sum.py) | [solution](Recursion/minimum_falling_path_sum.py) |
+| 21  | [Minimum Path Sum ](Recursion/minimum_path_sum.py) | [solution](Recursion/minimum_path_sum.py) |
 | 22  | [Number of Longest Increasing Subsequence ](Recursion/number_of_longest_increasing_subsequence.py) | [solution](Recursion/number_of_longest_increasing_subsequence.py) |
 | 23  | [Paint House ](Recursion/paint_house.py) | [solution](Recursion/paint_house.py) |
 | 24  | [House Robber ](Recursion/pick_dont_pick.py) | [solution](Recursion/pick_dont_pick.py) |
