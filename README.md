@@ -12,6 +12,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 38 | Microsoft| [N queen](Recursion/38_n_queen.py) | [solution](Recursion/38_n_queen.py) |
 | 41 | Facebook| [flight iternary](Arrays/41_flight_iternary.py) | [solution](Arrays/41_flight_iternary.py) |
 | 42 | Google| [subset add to target](Recursion/42_subset_adds_to_k.py) | [solution](Recursion/42_subset_adds_to_k.py) |
+| 47 | [Buy Stock 1](Recursion/buy_stock_1.py) | [solution](Recursion/buy_stock_1.py) |
+| 49 | [ Maximum Subarray](Arrays/49_maximum_sum_subaaray.py) | [solution](Arrays/49_maximum_sum_subaaray.py) |
 
 ## Recursion
 |  # | Description               | Solution |
