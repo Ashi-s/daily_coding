@@ -48,6 +48,27 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 25  | [Subsets II ](Recursion/subset_II.py) | [solution](Recursion/subset_II.py) |
 | 26  | [Triangle ](Recursion/trianglr.py) | [solution](Recursion/trianglr.py) |
 
+## Trees
+|  # | Description               | Solution |
+|----|---------------------------|---------------------------|
+| 1  | [Two Sum IV - Input is a BST ](Trees2/two_sum_IV.py) | [solution](Trees2/two_sum_IV.py) |
+| 2  | [BFS & DFS ](Trees2/BFS_DFS.py) | [solution](Trees2/BFS_DFS.py) |
+| 3  | [Binary Tree from List ](Trees2/BinartTreeFromList.py) | [solution](Trees2/BinartTreeFromList.py) |
+| 4  | [Binary Search Tree ](Trees2/BinarySearchTree.py) | [solution](Trees2/BinarySearchTree.py) |
+| 5  | [BST from List ](Trees2/BinarySearchTreeFromList.py) | [solution](Trees2/BinarySearchTreeFromList.py) |
+| 6  | [Binary Tree Average Level ](Trees2/BinaryTreeAverageLevel.py) | [solution](Trees2/BinaryTreeAverageLevel.py) |
+| 7  | [Connected components undirected graph ](Trees2/connected_component_undirected_graph.py) | [solution](Trees2/connected_component_undirected_graph.py) |
+| 8  | [Count good node](Trees2/count_good_node.py) | [solution](Trees2/count_good_node.py) |
+| 9  | [Evaluate expression binary tree ](Trees2/evaluate-expression-binary-ree.py) | [solution](Trees2/evaluate-expression-binary-ree.py) |
+| 10  | [Left & Right View Tree ](Trees2/left_and_right_view_tree.py) | [solution](Trees2/left_and_right_view_tree.py) |
+| 11  | [Maximum product of splitted binary tree ](Trees2/maximum_product_of_splitted_binary_tree.py) | [solution](Trees2/maximum_product_of_splitted_binary_tree.py) |
+| 12  | [N-ary tree level traversal ](Trees2/N-ary-level-traversal.py) | [solution](Trees2/N-ary-level-traversal.py) |
+| 13  | [Number of islands ](Trees2/number_of_islands.py) | [solution](Trees2/number_of_islands.py) |
+| 14  | [Path Sum II ](Trees2/path_sum_II.py) | [solution](Trees2/BFS_DFS.py) |
+| 15  | [Path Sum ](Trees2/pathSum.py) | [solution](Trees2/pathSum.py) |
+| 16  | [Redundant connection cycle in graph ](Trees2/Redundant_Connection_cycle_in_graph.py) | [solution](Trees2/Redundant_Connection_cycle_in_graph.py) |
+| 5  | [Smallest subtree with all deepest node ](Trees2/smallest_subtree_with_all_the_deepest_nodes.py) | [solution](Trees2/smallest_subtree_with_all_the_deepest_nodes.py) |
+
 
 
 
