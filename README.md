@@ -16,6 +16,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 49 | Amazon | [ Maximum Subarray](Arrays/49_maximum_sum_subaaray.py) | [solution](Arrays/49_maximum_sum_subaaray.py) |
 | 50 | Microsoft | [ Evaluate expression in Binary tree](Trees2/evaluate-expression-binary-ree.py) | [solution](Trees2/evaluate-expression-binary-ree.py) |
 | 51 | Facebook | [ Generates perfectly random](Arrays/51_shuffle_swap_cards.py) | [solution](Arrays/51_shuffle_swap_cards.py) |
+| 53 | Apple | [ Implement Queue using two stacks ](stacks_and_queues/53_implement_queue_with_two_stacks.py) | [solution](stacks_and_queues/53_implement_queue_with_two_stacks.py) |
+
 
 ## Recursion
 |  # | Description               | Solution |
@@ -67,14 +69,13 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 14  | [Path Sum II ](Trees2/path_sum_II.py) | [solution](Trees2/BFS_DFS.py) |
 | 15  | [Path Sum ](Trees2/pathSum.py) | [solution](Trees2/pathSum.py) |
 | 16  | [Redundant connection cycle in graph ](Trees2/Redundant_Connection_cycle_in_graph.py) | [solution](Trees2/Redundant_Connection_cycle_in_graph.py) |
-| 5  | [Smallest subtree with all deepest node ](Trees2/smallest_subtree_with_all_the_deepest_nodes.py) | [solution](Trees2/smallest_subtree_with_all_the_deepest_nodes.py) |
+| 17  | [Smallest subtree with all deepest node ](Trees2/smallest_subtree_with_all_the_deepest_nodes.py) | [solution](Trees2/smallest_subtree_with_all_the_deepest_nodes.py) |
 
 
-
-
-
-
-
+## Arrays
+|  # | Description               | Solution |
+|----|---------------------------|---------------------------|
+| 1  | [Complex Number Multiplication](Arrays/complex_number_multiplication.py) | [solution](Arrays/complex_number_multiplication.py) |
 
 
 
