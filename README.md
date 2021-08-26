@@ -17,9 +17,10 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 50 | Microsoft | [ Evaluate expression in Binary tree](Trees2/evaluate-expression-binary-ree.py) | [solution](Trees2/evaluate-expression-binary-ree.py) |
 | 51 | Facebook | [ Generates perfectly random](Arrays/51_shuffle_swap_cards.py) | [solution](Arrays/51_shuffle_swap_cards.py) |
 | 53 | Apple | [ Implement Queue using two stacks ](stacks_and_queues/53_implement_queue_with_two_stacks.py) | [solution](stacks_and_queues/53_implement_queue_with_two_stacks.py) |
+| 54 | DropBox | [ Sudoku ](Recursion/sudoku.py) | [solution](Recursion/sudoku.py) |
 
 
-## Recursion
+## Dynamic Programming / Recursion / Back Tracking
 |  # | Description               | Solution |
 |----|---------------------------|---------------------------|
 | 1  | [Airthmetic slices](Recursion/airthmetic_slices.py) | [solution](Recursion/airthmetic_slices.py) |
@@ -76,6 +77,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 |  # | Description               | Solution |
 |----|---------------------------|---------------------------|
 | 1  | [Complex Number Multiplication](Arrays/complex_number_multiplication.py) | [solution](Arrays/complex_number_multiplication.py) |
+| 2  | [Sum of squares number](Arrays/sum_of_square_numbers.py) | [solution](Arrays/sum_of_square_numbers.py) |
 
 
 
