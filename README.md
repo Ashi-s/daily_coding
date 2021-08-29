@@ -79,6 +79,10 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 |----|---------------------------|---------------------------|
 | 1  | [Complex Number Multiplication](Arrays/complex_number_multiplication.py) | [solution](Arrays/complex_number_multiplication.py) |
 | 2  | [Sum of squares number](Arrays/sum_of_square_numbers.py) | [solution](Arrays/sum_of_square_numbers.py) |
+| 3  | [3 Sum](Arrays/3sum.py) | [solution](Arrays/3sum.py) |
+| 4  | [Add string](Arrays/add_strings.py) | [solution](Arrays/add_strings.py) |
+| 5  | [first And Last Element SortedArray](Arrays/firstAndLastElementSortedArray.py) | [solution](Arrays/firstAndLastElementSortedArray.py) |
+| 6  | [Array  of doubled pairs ](Arrays/array_of_doubled_pairs.py) | [solution](Arrays/array_of_doubled_pairs.py) |
 
 
 
