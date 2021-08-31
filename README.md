@@ -84,6 +84,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 5  | [first And Last Element SortedArray](Arrays/firstAndLastElementSortedArray.py) | [solution](Arrays/firstAndLastElementSortedArray.py) |
 | 6  | [Array  of doubled pairs ](Arrays/array_of_doubled_pairs.py) | [solution](Arrays/array_of_doubled_pairs.py) |
 | 7  | [Search in Rotated Sorted Array ](Arrays/search_in_rotated_sorted_array.py) | [solution](Arrays/search_in_rotated_sorted_array.py) |
+| 8  | [Range Addition II ](Arrays/range_addition_II.py) | [solution](Arrays/range_addition_II.py) |
 
 
 
