@@ -45,3 +45,5 @@ def helper(res, s , target, index, current):
       c = s[i]
       if i != index and c == s[i-1]: continue 
       helper(res, s, target-c, i+1, current+[c])
+
+print(combinationSum2(s = [2,5,2,1,2], target = 5))

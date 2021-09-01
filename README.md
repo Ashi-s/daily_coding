@@ -85,6 +85,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 6  | [Array  of doubled pairs ](Arrays/array_of_doubled_pairs.py) | [solution](Arrays/array_of_doubled_pairs.py) |
 | 7  | [Search in Rotated Sorted Array ](Arrays/search_in_rotated_sorted_array.py) | [solution](Arrays/search_in_rotated_sorted_array.py) |
 | 8  | [Range Addition II ](Arrays/range_addition_II.py) | [solution](Arrays/range_addition_II.py) |
+| 9  | [Find Minimum in Rotated Sorted Array ](Arrays/find_minimum_in_rotated_sorted_array.py) | [solution](Arrays/find_minimum_in_rotated_sorted_array.py) |
 
 
 
