@@ -18,7 +18,13 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 51 | Facebook | [ Generates perfectly random](Arrays/51_shuffle_swap_cards.py) | [solution](Arrays/51_shuffle_swap_cards.py) |
 | 53 | Apple | [ Implement Queue using two stacks ](stacks_and_queues/53_implement_queue_with_two_stacks.py) | [solution](stacks_and_queues/53_implement_queue_with_two_stacks.py) |
 | 54 | DropBox | [ Sudoku ](Recursion/sudoku.py) | [solution](Recursion/sudoku.py) |
-| 61  | [Pow(x, n) ](Recursion/pow.py) | [solution](Recursion/pow.py) |
+| 58 | Amazon |[Find Minimum in Rotated Sorted Array ](Arrays/find_minimum_in_rotated_sorted_array.py) | [solution](Arrays/find_minimum_in_rotated_sorted_array.py) |
+| 60 | Facebook | [ Parition two subset ](Recursion/partition_two_equal_subsest.py) | [solution](Recursion/partition_two_equal_subsest.py) |
+| 61 | Google | [Pow(x, n) ](Recursion/pow.py) | [solution](Recursion/pow.py) |
+| 62 | Facebook | [Way to Reach Bottom matrix ](Trees2/62_way_to_reach_bottom_matrix.py) | [solution](Trees2/62_way_to_reach_bottom_matrix.py) |
+| 63 | Microsoft | [find word in matrix ](Trees2/63_find_word_in_matrix.py) | [solution](Trees2/63_find_word_in_matrix.py) |
+
+
 
 
 ## Dynamic Programming / Recursion / Back Tracking
