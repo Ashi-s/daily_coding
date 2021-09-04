@@ -57,6 +57,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 24  | [Pow(x, n) ](Recursion/pow.py) | [solution](Recursion/pow.py) |
 | 25  | [Subsets II ](Recursion/subset_II.py) | [solution](Recursion/subset_II.py) |
 | 26  | [Triangle ](Recursion/trianglr.py) | [solution](Recursion/trianglr.py) |
+| 26  | [N Queen II ](Recursion/n_queen_II.py) | [solution](Recursion/n_queen_II.py) |
 
 ## Trees
 |  # | Description               | Solution |

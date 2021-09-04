@@ -9,17 +9,17 @@
 # Output: [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]
 # Explanation: There exist two distinct solutions to the 4-queens puzzle as shown above
 
-class Solution:
-    def solveNQueens(self, n: int) -> List[List[str]]:
-      res = []
-      board = [["."]*n for _ in range(n)]
-      
-      cols = set()
-      positive_diagonal = set() #r+c is constant
-      negative_diagonal = set() #r-c is constant
-      
-      helper(res, board, n , 0, cols, positive_diagonal, negative_diagonal)
-      return res
+
+def solveNQueens(n):
+  res = []
+  board = [["."]*n for _ in range(n)]
+  
+  cols = set()
+  positive_diagonal = set() #r+c is constant
+  negative_diagonal = set() #r-c is constant
+  
+  helper(res, board, n , 0, cols, positive_diagonal, negative_diagonal)
+  return res
       
 
 def helper(res, board, n , row, cols, positive_diagonal, negative_diagonal):
@@ -45,3 +45,4 @@ def helper(res, board, n , row, cols, positive_diagonal, negative_diagonal):
     negative_diagonal.remove(row-c)
     board[row][c] = "."
         
+print(solveNQueens(4))
