@@ -80,6 +80,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 16  | [Redundant connection cycle in graph ](Trees2/Redundant_Connection_cycle_in_graph.py) | [solution](Trees2/Redundant_Connection_cycle_in_graph.py) |
 | 17  | [Smallest subtree with all deepest node ](Trees2/smallest_subtree_with_all_the_deepest_nodes.py) | [solution](Trees2/smallest_subtree_with_all_the_deepest_nodes.py) |
 | 18  | [Verify Preorder Serialization of a Binary Tree ](Trees2/preorder_serialize_binary_tree.py) | [solution](Trees2/preorder_serialize_binary_tree.py) |
+| 19  | [Same Tree ](Trees2/same_tree.py) | [solution](Trees2/same_tree.py) |
 
 
 ## Arrays
