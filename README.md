@@ -96,7 +96,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 8  | [Range Addition II ](Arrays/range_addition_II.py) | [solution](Arrays/range_addition_II.py) |
 | 9  | [Find Minimum in Rotated Sorted Array ](Arrays/find_minimum_in_rotated_sorted_array.py) | [solution](Arrays/find_minimum_in_rotated_sorted_array.py) |
 | 10  | [Array Nesting ](Arrays/Arrray_nesting.py) | [solution](Arrays/Arrray_nesting.py) |
-
+| 11  | [Orderly Queue ](Arrays/orderly_queue.py) | [solution](Arrays/orderly_queue.py) |
+| 12  | [Count special quadruples ](Arrays/count_special_quadruples.py) | [solution](Arrays/count_special_quadruples.py) |
 
 
 
