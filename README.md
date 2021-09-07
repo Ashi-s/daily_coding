@@ -98,6 +98,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 10  | [Array Nesting ](Arrays/Arrray_nesting.py) | [solution](Arrays/Arrray_nesting.py) |
 | 11  | [Orderly Queue ](Arrays/orderly_queue.py) | [solution](Arrays/orderly_queue.py) |
 | 12  | [Count special quadruples ](Arrays/count_special_quadruples.py) | [solution](Arrays/count_special_quadruples.py) |
+| 13  | [Slowest key ](Arrays/slowest_key.py) | [solution](Arrays/slowest_key.py) |
 
 
 
