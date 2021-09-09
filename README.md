@@ -99,7 +99,13 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 11  | [Orderly Queue ](Arrays/orderly_queue.py) | [solution](Arrays/orderly_queue.py) |
 | 12  | [Count special quadruples ](Arrays/count_special_quadruples.py) | [solution](Arrays/count_special_quadruples.py) |
 | 13  | [Slowest key ](Arrays/slowest_key.py) | [solution](Arrays/slowest_key.py) |
+| 14  | [Shifting Letters ](Arrays/shifting_letters.py) | [solution](Arrays/shifting_letters.py) |
 
+
+## Link List
+|  # | Description               | Solution |
+|----|---------------------------|---------------------------|
+| 1  | [Reverse a Link List](LinkList/reverse.py) | [solution](LinkList/reverse.py) |
 
 
 ## How to contribute
