@@ -101,7 +101,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 13  | [Slowest key ](Arrays/slowest_key.py) | [solution](Arrays/slowest_key.py) |
 | 14  | [Shifting Letters ](Arrays/shifting_letters.py) | [solution](Arrays/shifting_letters.py) |
 | 15  | [Max Multiply three numbers ](Arrays/multiply_three_umber.py) | [solution](Arrays/multiply_three_umber.py) |
-
+| 16  | [Perfect Number ](Arrays/perfect_number.py) | [solution](Arrays/perfect_number.py) |
 
 ## Link List
 |  # | Description               | Solution |
