@@ -24,6 +24,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 62 | Facebook | [Way to Reach Bottom matrix ](Trees2/62_way_to_reach_bottom_matrix.py) | [solution](Trees2/62_way_to_reach_bottom_matrix.py) |
 | 63 | Microsoft | [find word in matrix ](Trees2/63_find_word_in_matrix.py) | [solution](Trees2/63_find_word_in_matrix.py) |
 | 74 | Apple | [Number of times Element appears ](Arrays/element_appears.py) | [solution](Arrays/element_appears.py) |
+| 75 | Microsoft | [Longest Increasing Subsequence ](Recursion/longest_increasing_subsequence_recur.py) | [solution](Recursion/longest_increasing_subsequence_recur.py) |
 
 
 
@@ -104,6 +105,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 15  | [Max Multiply three numbers ](Arrays/multiply_three_umber.py) | [solution](Arrays/multiply_three_umber.py) |
 | 16  | [Perfect Number ](Arrays/perfect_number.py) | [solution](Arrays/perfect_number.py) |
 | 17  | [Merge Sorted Array ](Arrays/merge_sorted_array.py) | [solution](Arrays/merge_sorted_array.py) |
+| 18  | [Reverse only Letters ](Arrays/reverse_only_letters.py) | [solution](Arrays/reverse_only_letters.py) |
 
 ## Link List
 |  # | Description               | Solution |
