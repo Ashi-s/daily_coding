@@ -25,6 +25,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 63 | Microsoft | [find word in matrix ](Trees2/63_find_word_in_matrix.py) | [solution](Trees2/63_find_word_in_matrix.py) |
 | 74 | Apple | [Number of times Element appears ](Arrays/element_appears.py) | [solution](Arrays/element_appears.py) |
 | 75 | Microsoft | [Longest Increasing Subsequence ](Recursion/longest_increasing_subsequence_recur.py) | [solution](Recursion/longest_increasing_subsequence_recur.py) |
+| 76  | Google |  [Delete column to make it sorted](Arrays/delete_colums_to_make_sorted.py) | [solution](Arrays/delete_colums_to_make_sorted.py) |
+| 77  | SnapChat | [Merge Intervals](Arrays/merge_intervals.py) | [solution](Arrays/merge_intervals.py) |
 
 
 
@@ -106,6 +108,11 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 16  | [Perfect Number ](Arrays/perfect_number.py) | [solution](Arrays/perfect_number.py) |
 | 17  | [Merge Sorted Array ](Arrays/merge_sorted_array.py) | [solution](Arrays/merge_sorted_array.py) |
 | 18  | [Reverse only Letters ](Arrays/reverse_only_letters.py) | [solution](Arrays/reverse_only_letters.py) |
+| 19  | [Longest Turbulent Subarray ](Arrays/longest_turbulent_subarray.py) | [solution](Arrays/longest_turbulent_subarray.py) |
+| 20  | [Spiral Matrix](Arrays/spiral_matrix.py) | [solution](Arrays/spiral_matrix.py) |
+| 21  | [Delete column to make it sorted](Arrays/delete_colums_to_make_sorted.py) | [solution](Arrays/delete_colums_to_make_sorted.py) |
+| 22  | [Merge Intervals](Arrays/merge_intervals.py) | [solution](Arrays/merge_intervals.py) |
+| 23  | [Intersection Two Arrays II](Arrays/intersection_two_arrays_II.py) | [solution](Arrays/intersection_two_arrays_II.py) |
 
 ## Link List
 |  # | Description               | Solution |
