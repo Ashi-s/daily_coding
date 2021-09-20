@@ -27,6 +27,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 75 | Microsoft | [Longest Increasing Subsequence ](Recursion/longest_increasing_subsequence_recur.py) | [solution](Recursion/longest_increasing_subsequence_recur.py) |
 | 76  | Google |  [Delete column to make it sorted](Arrays/delete_colums_to_make_sorted.py) | [solution](Arrays/delete_colums_to_make_sorted.py) |
 | 77  | SnapChat | [Merge Intervals](Arrays/merge_intervals.py) | [solution](Arrays/merge_intervals.py) |
+| 77  | Facebook | [Non Decreasing Array](Arrays/79_non_decreasing_array.py) | [solution](Arrays/79_non_decreasing_array.py) |
 
 
 
@@ -114,6 +115,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 21  | [Delete column to make it sorted](Arrays/delete_colums_to_make_sorted.py) | [solution](Arrays/delete_colums_to_make_sorted.py) |
 | 22  | [Merge Intervals](Arrays/merge_intervals.py) | [solution](Arrays/merge_intervals.py) |
 | 23  | [Intersection Two Arrays II](Arrays/intersection_two_arrays_II.py) | [solution](Arrays/intersection_two_arrays_II.py) |
+| 24  | [Remove duplicates sorted array](Arrays/remove_duplicates.py) | [solution](Arrays/remove_duplicates.py) |
 
 ## Link List
 |  # | Description               | Solution |
