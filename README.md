@@ -116,6 +116,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 22  | [Merge Intervals](Arrays/merge_intervals.py) | [solution](Arrays/merge_intervals.py) |
 | 23  | [Intersection Two Arrays II](Arrays/intersection_two_arrays_II.py) | [solution](Arrays/intersection_two_arrays_II.py) |
 | 24  | [Remove duplicates sorted array](Arrays/remove_duplicates.py) | [solution](Arrays/remove_duplicates.py) |
+| 25  | [Valid Tic Tac Toe](Arrays/valid_tic_tac_toe.py) | [solution](Arrays/valid_tic_tac_toe.py) |
 
 ## Link List
 |  # | Description               | Solution |
