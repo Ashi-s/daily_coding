@@ -27,8 +27,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 75 | Microsoft | [Longest Increasing Subsequence ](Recursion/longest_increasing_subsequence_recur.py) | [solution](Recursion/longest_increasing_subsequence_recur.py) |
 | 76  | Google |  [Delete column to make it sorted](Arrays/delete_colums_to_make_sorted.py) | [solution](Arrays/delete_colums_to_make_sorted.py) |
 | 77  | SnapChat | [Merge Intervals](Arrays/merge_intervals.py) | [solution](Arrays/merge_intervals.py) |
-| 77  | Facebook | [Non Decreasing Array](Arrays/79_non_decreasing_array.py) | [solution](Arrays/79_non_decreasing_array.py) |
-
+| 78  | Facebook | [Non Decreasing Array](Arrays/79_non_decreasing_array.py) | [solution](Arrays/79_non_decreasing_array.py)
+| 81  | Yelp | [Phone Number Combination](Recursion/81_phone_number_combination.py) | [solution](Recursion/81_phone_number_combination.py) 
 
 
 
@@ -117,6 +117,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 23  | [Intersection Two Arrays II](Arrays/intersection_two_arrays_II.py) | [solution](Arrays/intersection_two_arrays_II.py) |
 | 24  | [Remove duplicates sorted array](Arrays/remove_duplicates.py) | [solution](Arrays/remove_duplicates.py) |
 | 25  | [Valid Tic Tac Toe](Arrays/valid_tic_tac_toe.py) | [solution](Arrays/valid_tic_tac_toe.py) |
+| 26  | [Valid Tic Tac Toe](Arrays/max_consecutive_ones.py) | [solution](Arrays/max_consecutive_ones.py) |
 
 ## Link List
 |  # | Description               | Solution |
