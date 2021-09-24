@@ -118,7 +118,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 24  | [Remove duplicates sorted array](Arrays/remove_duplicates.py) | [solution](Arrays/remove_duplicates.py) |
 | 25  | [Valid Tic Tac Toe](Arrays/valid_tic_tac_toe.py) | [solution](Arrays/valid_tic_tac_toe.py) |
 | 26  | [Valid Tic Tac Toe](Arrays/max_consecutive_ones.py) | [solution](Arrays/max_consecutive_ones.py) |
-| 26  | [Maximum Length of a Concatenated String with Unique Characters](Arrays/max_length_concat_string_unique_length.py) | [solution](Arrays/max_length_concat_string_unique_length.py) |
+| 27  | [Maximum Length of a Concatenated String with Unique Characters](Arrays/max_length_concat_string_unique_length.py) | [solution](Arrays/max_length_concat_string_unique_length.py) |
+| 28  | [Break a palindrome](Arrays/break_palindrome.py) | [solution](Arrays/break_palindrome.py) |
 
 ## Link List
 |  # | Description               | Solution |
