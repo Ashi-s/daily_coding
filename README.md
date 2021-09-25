@@ -120,6 +120,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 26  | [Valid Tic Tac Toe](Arrays/max_consecutive_ones.py) | [solution](Arrays/max_consecutive_ones.py) |
 | 27  | [Maximum Length of a Concatenated String with Unique Characters](Arrays/max_length_concat_string_unique_length.py) | [solution](Arrays/max_length_concat_string_unique_length.py) |
 | 28  | [Break a palindrome](Arrays/break_palindrome.py) | [solution](Arrays/break_palindrome.py) |
+| 28  | [Tribonnacci Number](Arrays/tribonnacci.py) | [solution](Arrays/tribonnacci.py) |
 
 ## Link List
 |  # | Description               | Solution |
