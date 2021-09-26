@@ -64,6 +64,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 26  | [Triangle ](Recursion/trianglr.py) | [solution](Recursion/trianglr.py) |
 | 27  | [N Queen II ](Recursion/n_queen_II.py) | [solution](Recursion/n_queen_II.py) |
 | 28  | [Expression and Operator ](Recursion/expression_and_operator.py) | [solution](Recursion/expression_and_operator.py) |
+| 29  | [Shortest path grid ](Recursion/shortest_path_grid.py) | [solution](Recursion/shortest_path_grid.py) |
+| 30  | [Shortest path grid with obstacles ](Recursion/shortest_path_grid_with_obstacle_elimination.py) | [solution](Recursion/shortest_path_grid_with_obstacle_elimination.py) |
 
 ## Trees
 |  # | Description               | Solution |
