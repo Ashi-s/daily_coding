@@ -29,6 +29,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 77  | SnapChat | [Merge Intervals](Arrays/merge_intervals.py) | [solution](Arrays/merge_intervals.py) |
 | 78  | Facebook | [Non Decreasing Array](Arrays/79_non_decreasing_array.py) | [solution](Arrays/79_non_decreasing_array.py)
 | 81  | Yelp | [Phone Number Combination](Recursion/81_phone_number_combination.py) | [solution](Recursion/81_phone_number_combination.py) 
+| 86  | Google | [Minimum parenthesis remove to make it valid](stacks_and_queues/86_minimum_parenthesis_remove.py) | [solution](stacks_and_queues/86_minimum_parenthesis_remove.py)
 
 
 
@@ -129,7 +130,10 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 |----|---------------------------|---------------------------|
 | 1  | [Reverse a Link List](LinkList/reverse.py) | [solution](LinkList/reverse.py) |
 
-
+## Stack and Queues
+|  # | Description               | Solution |
+|----|---------------------------|---------------------------|
+| 1  | [Minimum parenthesis remove to make it valid](stacks_and_queues/86_minimum_parenthesis_remove.py) | [solution](stacks_and_queues/86_minimum_parenthesis_remove.py) |
 ## How to contribute
 
 Feel free to send me a pull requests, if you spot issues with any of my solutions!
