@@ -124,6 +124,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 27  | [Maximum Length of a Concatenated String with Unique Characters](Arrays/max_length_concat_string_unique_length.py) | [solution](Arrays/max_length_concat_string_unique_length.py) |
 | 28  | [Break a palindrome](Arrays/break_palindrome.py) | [solution](Arrays/break_palindrome.py) |
 | 28  | [Tribonnacci Number](Arrays/tribonnacci.py) | [solution](Arrays/tribonnacci.py) |
+| 29  | [Unique Email Address](Arrays/unique_email_address.py) | [solution](Arrays/unique_email_address.py) |
 
 ## Link List
 |  # | Description               | Solution |
