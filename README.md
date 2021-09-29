@@ -30,6 +30,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 78  | Facebook | [Non Decreasing Array](Arrays/79_non_decreasing_array.py) | [solution](Arrays/79_non_decreasing_array.py)
 | 81  | Yelp | [Phone Number Combination](Recursion/81_phone_number_combination.py) | [solution](Recursion/81_phone_number_combination.py) 
 | 86  | Google | [Minimum parenthesis remove to make it valid](stacks_and_queues/86_minimum_parenthesis_remove.py) | [solution](stacks_and_queues/86_minimum_parenthesis_remove.py)
+| 87  | ContextLogic | [Implement division without using division, multiplication or Modulus](Arrays/88_implement_division.py) | [solution](Arrays/88_implement_division.py)
 
 
 
@@ -125,6 +126,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 28  | [Break a palindrome](Arrays/break_palindrome.py) | [solution](Arrays/break_palindrome.py) |
 | 28  | [Tribonnacci Number](Arrays/tribonnacci.py) | [solution](Arrays/tribonnacci.py) |
 | 29  | [Unique Email Address](Arrays/unique_email_address.py) | [solution](Arrays/unique_email_address.py) |
+| 29  | [Sort Array Parity II](Arrays/sort_array_parity_II.py) | [solution](Arrays/sort_array_parity_II.py) |
 
 ## Link List
 |  # | Description               | Solution |
