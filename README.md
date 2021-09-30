@@ -30,7 +30,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 78  | Facebook | [Non Decreasing Array](Arrays/79_non_decreasing_array.py) | [solution](Arrays/79_non_decreasing_array.py)
 | 81  | Yelp | [Phone Number Combination](Recursion/81_phone_number_combination.py) | [solution](Recursion/81_phone_number_combination.py) 
 | 86  | Google | [Minimum parenthesis remove to make it valid](stacks_and_queues/86_minimum_parenthesis_remove.py) | [solution](stacks_and_queues/86_minimum_parenthesis_remove.py)
-| 87  | ContextLogic | [Implement division without using division, multiplication or Modulus](Arrays/88_implement_division.py) | [solution](Arrays/88_implement_division.py)
+| 88  | ContextLogic | [Implement division without using division, multiplication or Modulus](Arrays/88_implement_division.py) | [solution](Arrays/88_implement_division.py)
+| 89  | LinkedIn | [Valid BST](Trees2/89_valid_BST.py) | [solution](Trees2/89_valid_BST.py)
 
 
 
@@ -132,6 +133,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 |  # | Description               | Solution |
 |----|---------------------------|---------------------------|
 | 1  | [Reverse a Link List](LinkList/reverse.py) | [solution](LinkList/reverse.py) |
+| 2  | [Split Link List in Parts](LinkList/split_link_list_in_parts.py) | [solution](LinkList/split_link_list_in_parts.py) |
 
 ## Stack and Queues
 |  # | Description               | Solution |
