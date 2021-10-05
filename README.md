@@ -71,6 +71,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 28  | [Expression and Operator ](Recursion/expression_and_operator.py) | [solution](Recursion/expression_and_operator.py) |
 | 29  | [Shortest path grid ](Recursion/shortest_path_grid.py) | [solution](Recursion/shortest_path_grid.py) |
 | 30  | [Shortest path grid with obstacles ](Recursion/shortest_path_grid_with_obstacle_elimination.py) | [solution](Recursion/shortest_path_grid_with_obstacle_elimination.py) |
+| 31  | [Jump Game](Recursion/jump_game.py) | [solution](Recursion/jump_game.py) |
 
 ## Trees
 |  # | Description               | Solution |
@@ -129,7 +130,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 28  | [Break a palindrome](Arrays/break_palindrome.py) | [solution](Arrays/break_palindrome.py) |
 | 28  | [Tribonnacci Number](Arrays/tribonnacci.py) | [solution](Arrays/tribonnacci.py) |
 | 29  | [Unique Email Address](Arrays/unique_email_address.py) | [solution](Arrays/unique_email_address.py) |
-| 29  | [Sort Array Parity II](Arrays/sort_array_parity_II.py) | [solution](Arrays/sort_array_parity_II.py) |
+| 30  | [Sort Array Parity II](Arrays/sort_array_parity_II.py) | [solution](Arrays/sort_array_parity_II.py) |
+| 31  | [Island Perimeter](Arrays/island_perimeter.py) | [solution](Arrays/island_perimeter.py) |
 
 ## Link List
 |  # | Description               | Solution |
