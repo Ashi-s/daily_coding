@@ -132,6 +132,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 29  | [Unique Email Address](Arrays/unique_email_address.py) | [solution](Arrays/unique_email_address.py) |
 | 30  | [Sort Array Parity II](Arrays/sort_array_parity_II.py) | [solution](Arrays/sort_array_parity_II.py) |
 | 31  | [Island Perimeter](Arrays/island_perimeter.py) | [solution](Arrays/island_perimeter.py) |
+| 32  | [Find All Duplicates in Array](Arrays/find_all_duplicates_in_array.py) | [solution](Arrays/find_all_duplicates_in_array.py) |
 
 ## Link List
 |  # | Description               | Solution |
