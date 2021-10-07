@@ -34,6 +34,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 89  | LinkedIn | [Valid BST](Trees2/89_valid_BST.py) | [solution](Trees2/89_valid_BST.py)
 | 90  | Google | [Generate random number excluding he lsit](Arrays/90_generate_random_excluding_list.py) | [solution](Arrays/90_generate_random_excluding_list.py)
 | 91  | DropBox | [Dry run code snippet](Arrays/91_dropbox_debug_snippet.py) | [solution](Arrays/91_dropbox_debug_snippet.py)
+| 96  | Microsoft | [Subsets ](Recursion/generate_subsets.py) | [solution](Recursion/generate_subsets.py) |
 
 
 
@@ -72,6 +73,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 29  | [Shortest path grid ](Recursion/shortest_path_grid.py) | [solution](Recursion/shortest_path_grid.py) |
 | 30  | [Shortest path grid with obstacles ](Recursion/shortest_path_grid_with_obstacle_elimination.py) | [solution](Recursion/shortest_path_grid_with_obstacle_elimination.py) |
 | 31  | [Jump Game](Recursion/jump_game.py) | [solution](Recursion/jump_game.py) |
+| 32  | [Word Search](Recursion/word_search.py) | [solution](Recursion/word_search.py) |
 
 ## Trees
 |  # | Description               | Solution |
