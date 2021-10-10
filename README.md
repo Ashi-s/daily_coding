@@ -36,7 +36,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 91  | DropBox | [Dry run code snippet](Arrays/91_dropbox_debug_snippet.py) | [solution](Arrays/91_dropbox_debug_snippet.py)
 | 96  | Microsoft | [Subsets ](Recursion/generate_subsets.py) | [solution](Recursion/generate_subsets.py) |
 | 98  | Courseera | [Word Search](Recursion/word_search.py) | [solution](Recursion/word_search.py) |
-
+| 99  | Microsoft | [Longest Consecutive Sequence](Arrays/longest_consecutive_sequence.py) | [solution](Arrays/longest_consecutive_sequence.py) |
 
 
 ## Dynamic Programming / Recursion / Back Tracking
@@ -137,6 +137,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 30  | [Sort Array Parity II](Arrays/sort_array_parity_II.py) | [solution](Arrays/sort_array_parity_II.py) |
 | 31  | [Island Perimeter](Arrays/island_perimeter.py) | [solution](Arrays/island_perimeter.py) |
 | 32  | [Find All Duplicates in Array](Arrays/find_all_duplicates_in_array.py) | [solution](Arrays/find_all_duplicates_in_array.py) |
+| 33  | [Longest Consecutive Sequence](Arrays/longest_consecutive_sequence.py) | [solution](Arrays/longest_consecutive_sequence.py) |
+| 34  | [Count Primes](Arrays/count_primes.py) | [solution](Arrays/count_primes.py) |
 
 ## Link List
 |  # | Description               | Solution |
@@ -148,6 +150,10 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 |  # | Description               | Solution |
 |----|---------------------------|---------------------------|
 | 1  | [Minimum parenthesis remove to make it valid](stacks_and_queues/86_minimum_parenthesis_remove.py) | [solution](stacks_and_queues/86_minimum_parenthesis_remove.py) |
+## Bit Manipulation
+|  # | Description               | Solution |
+|----|---------------------------|---------------------------|
+| 1  | [Bitwise AND of Numbers Range](bit-manipulation/bitwise_AND_of_number_range.py) | [solution](bit-manipulation/bitwise_AND_of_number_range.py) |
 ## How to contribute
 
 Feel free to send me a pull requests, if you spot issues with any of my solutions!
