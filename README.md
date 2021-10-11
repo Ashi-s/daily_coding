@@ -37,6 +37,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 96  | Microsoft | [Subsets ](Recursion/generate_subsets.py) | [solution](Recursion/generate_subsets.py) |
 | 98  | Courseera | [Word Search](Recursion/word_search.py) | [solution](Recursion/word_search.py) |
 | 99  | Microsoft | [Longest Consecutive Sequence](Arrays/longest_consecutive_sequence.py) | [solution](Arrays/longest_consecutive_sequence.py) |
+| 100 | Google | [Minimum steps to cover an infinite grid](Arrays/minimum_step_cover_infinite_grid.py) | [solution](Arrays/minimum_step_cover_infinite_grid.py) |
 
 
 ## Dynamic Programming / Recursion / Back Tracking
@@ -99,6 +100,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 17  | [Smallest subtree with all deepest node ](Trees2/smallest_subtree_with_all_the_deepest_nodes.py) | [solution](Trees2/smallest_subtree_with_all_the_deepest_nodes.py) |
 | 18  | [Verify Preorder Serialization of a Binary Tree ](Trees2/preorder_serialize_binary_tree.py) | [solution](Trees2/preorder_serialize_binary_tree.py) |
 | 19  | [Same Tree ](Trees2/same_tree.py) | [solution](Trees2/same_tree.py) |
+| 20  | [Diameter of Binary Tree ](Trees2/diameter_binary_tree.py) | [solution](Trees2/diameter_binary_tree.py) |
 
 
 ## Arrays
@@ -139,6 +141,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 32  | [Find All Duplicates in Array](Arrays/find_all_duplicates_in_array.py) | [solution](Arrays/find_all_duplicates_in_array.py) |
 | 33  | [Longest Consecutive Sequence](Arrays/longest_consecutive_sequence.py) | [solution](Arrays/longest_consecutive_sequence.py) |
 | 34  | [Count Primes](Arrays/count_primes.py) | [solution](Arrays/count_primes.py) |
+| 35  | [Minimum steps to cover an infinite grid](Arrays/minimum_step_cover_infinite_grid.py) | [solution](Arrays/minimum_step_cover_infinite_grid.py) |
 
 ## Link List
 |  # | Description               | Solution |
