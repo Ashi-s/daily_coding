@@ -38,7 +38,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 98  | Courseera | [Word Search](Recursion/word_search.py) | [solution](Recursion/word_search.py) |
 | 99  | Microsoft | [Longest Consecutive Sequence](Arrays/longest_consecutive_sequence.py) | [solution](Arrays/longest_consecutive_sequence.py) |
 | 100 | Google | [Minimum steps to cover an infinite grid](Arrays/minimum_step_cover_infinite_grid.py) | [solution](Arrays/minimum_step_cover_infinite_grid.py) |
-
+| 101 | Alibaba | [Return two primes who's sum equals the number](Arrays/two_prime_equal_to_sum.py) | [solution](Arrays/two_prime_equal_to_sum.py) |
 
 ## Dynamic Programming / Recursion / Back Tracking
 |  # | Description               | Solution |
@@ -77,6 +77,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 31  | [Jump Game](Recursion/jump_game.py) | [solution](Recursion/jump_game.py) |
 | 32  | [Word Search](Recursion/word_search.py) | [solution](Recursion/word_search.py) |
 | 32  | [Word Search II](Recursion/word_search_II.py) | [solution](Recursion/word_search_II.py) |
+| 33  | [Maximum length Subarray with positive product](Recursion/maximum_length_subarray_with_positive_product.py) | [solution](Recursion/maximum_length_subarray_with_positive_product.py) |
 
 ## Trees
 |  # | Description               | Solution |
@@ -142,6 +143,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 33  | [Longest Consecutive Sequence](Arrays/longest_consecutive_sequence.py) | [solution](Arrays/longest_consecutive_sequence.py) |
 | 34  | [Count Primes](Arrays/count_primes.py) | [solution](Arrays/count_primes.py) |
 | 35  | [Minimum steps to cover an infinite grid](Arrays/minimum_step_cover_infinite_grid.py) | [solution](Arrays/minimum_step_cover_infinite_grid.py) |
+| 36 | [Return two primes who's sum equals the number](Arrays/two_prime_equal_to_sum.py) | [solution](Arrays/two_prime_equal_to_sum.py) |
 
 ## Link List
 |  # | Description               | Solution |
