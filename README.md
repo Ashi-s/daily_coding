@@ -102,6 +102,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 18  | [Verify Preorder Serialization of a Binary Tree ](Trees2/preorder_serialize_binary_tree.py) | [solution](Trees2/preorder_serialize_binary_tree.py) |
 | 19  | [Same Tree ](Trees2/same_tree.py) | [solution](Trees2/same_tree.py) |
 | 20  | [Diameter of Binary Tree ](Trees2/diameter_binary_tree.py) | [solution](Trees2/diameter_binary_tree.py) |
+| 21  | [Construct a BST from preorder traversal ](Trees2/construct_BST_from_preorder_traversal.py) | [solution](Trees2/construct_BST_from_preorder_traversal.py) |
 
 
 ## Arrays
@@ -144,6 +145,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 34  | [Count Primes](Arrays/count_primes.py) | [solution](Arrays/count_primes.py) |
 | 35  | [Minimum steps to cover an infinite grid](Arrays/minimum_step_cover_infinite_grid.py) | [solution](Arrays/minimum_step_cover_infinite_grid.py) |
 | 36 | [Return two primes who's sum equals the number](Arrays/two_prime_equal_to_sum.py) | [solution](Arrays/two_prime_equal_to_sum.py) |
+| 37 | [Subarray sum equal to k](Arrays/subarray_sum_equal_k.py) | [solution](Arrays/subarray_sum_equal_k.py) |
 
 ## Link List
 |  # | Description               | Solution |
