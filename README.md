@@ -146,6 +146,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 35  | [Minimum steps to cover an infinite grid](Arrays/minimum_step_cover_infinite_grid.py) | [solution](Arrays/minimum_step_cover_infinite_grid.py) |
 | 36 | [Return two primes who's sum equals the number](Arrays/two_prime_equal_to_sum.py) | [solution](Arrays/two_prime_equal_to_sum.py) |
 | 37 | [Subarray sum equal to k](Arrays/subarray_sum_equal_k.py) | [solution](Arrays/subarray_sum_equal_k.py) |
+| 38 | [Richest customer wealth](Arrays/richest_customer_wealth.py) | [solution](Arrays/richest_customer_wealthgit.py) |
 
 ## Link List
 |  # | Description               | Solution |
