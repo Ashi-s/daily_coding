@@ -76,8 +76,9 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 30  | [Shortest path grid with obstacles ](Recursion/shortest_path_grid_with_obstacle_elimination.py) | [solution](Recursion/shortest_path_grid_with_obstacle_elimination.py) |
 | 31  | [Jump Game](Recursion/jump_game.py) | [solution](Recursion/jump_game.py) |
 | 32  | [Word Search](Recursion/word_search.py) | [solution](Recursion/word_search.py) |
-| 32  | [Word Search II](Recursion/word_search_II.py) | [solution](Recursion/word_search_II.py) |
-| 33  | [Maximum length Subarray with positive product](Recursion/maximum_length_subarray_with_positive_product.py) | [solution](Recursion/maximum_length_subarray_with_positive_product.py) |
+| 33  | [Word Search II](Recursion/word_search_II.py) | [solution](Recursion/word_search_II.py) |
+| 34  | [Maximum length Subarray with positive product](Recursion/maximum_length_subarray_with_positive_product.py) | [solution](Recursion/maximum_length_subarray_with_positive_product.py) |
+| 35  | [Best Time to Buy & Sell Stock with Cooldown](Recursion/buy_sell_stock_with_cooldown.py) | [solution](Recursion/buy_sell_stock_with_cooldown.py) |
 
 ## Trees
 |  # | Description               | Solution |
