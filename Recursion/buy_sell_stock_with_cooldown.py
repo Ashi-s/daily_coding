@@ -15,7 +15,7 @@
 # Input: prices = [1]
 # Output: 0
 
-
+#M1 basic recursion
 def maxProfit(prices):
 
   def helper(res, idx, profit, buy):
@@ -36,3 +36,29 @@ def maxProfit(prices):
   res = []
   helper(res, 0, 0, True)
   return max(res)
+
+#M2 DP
+# https://www.youtube.com/watch?v=I7j0F7AHpb8&ab_channel=NeetCode
+def maxProfit(prices):
+  #dp = {(i, buying)} (index, boolean)
+  dp = {}
+  def helper(idx, buying):
+    if idx >= len(prices):
+      return 0
+    
+    if (idx, buying) in dp:
+      return dp[(idx, buying)]
+    
+    cooldown = helper(idx+1, buying)
+    #buying
+    if buying:
+      buy = helper(idx+1, not buying) - prices[idx]
+      dp[(idx, buying)] = max(buy, cooldown)
+    #sell
+    else:
+      sell = helper(idx+2, not buying) + prices[idx]
+      dp[(idx, buying)] = max(sell, cooldown)
+    
+    return dp[(idx, buying)]
+  
+  return helper(0, True)
