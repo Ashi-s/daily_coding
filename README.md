@@ -80,6 +80,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 34  | [Maximum length Subarray with positive product](Recursion/maximum_length_subarray_with_positive_product.py) | [solution](Recursion/maximum_length_subarray_with_positive_product.py) |
 | 35  | [Best Time to Buy & Sell Stock with Cooldown](Recursion/buy_sell_stock_with_cooldown.py) | [solution](Recursion/buy_sell_stock_with_cooldown.py) |
 | 36  | [Buy & Sell Stock III](Recursion/buy_sell_stock_III.py) | [solution](Recursion/buy_sell_stock_III.py) |
+| 37  | [Path Sum III](Recursion/path_sum_III.py) | [solution](Recursion/path_sum_III.py) |
 
 ## Trees
 |  # | Description               | Solution |
