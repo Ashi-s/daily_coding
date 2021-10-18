@@ -106,6 +106,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 19  | [Same Tree ](Trees2/same_tree.py) | [solution](Trees2/same_tree.py) |
 | 20  | [Diameter of Binary Tree ](Trees2/diameter_binary_tree.py) | [solution](Trees2/diameter_binary_tree.py) |
 | 21  | [Construct a BST from preorder traversal ](Trees2/construct_BST_from_preorder_traversal.py) | [solution](Trees2/construct_BST_from_preorder_traversal.py) |
+| 22  | [Cousin in Binary Tree ](Trees2/cousin_binary_tree.py) | [solution](Trees2/cousin_binary_tree.py) |
 
 
 ## Arrays
