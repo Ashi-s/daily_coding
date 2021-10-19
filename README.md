@@ -39,6 +39,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 99  | Microsoft | [Longest Consecutive Sequence](Arrays/longest_consecutive_sequence.py) | [solution](Arrays/longest_consecutive_sequence.py) |
 | 100 | Google | [Minimum steps to cover an infinite grid](Arrays/minimum_step_cover_infinite_grid.py) | [solution](Arrays/minimum_step_cover_infinite_grid.py) |
 | 101 | Alibaba | [Return two primes who's sum equals the number](Arrays/two_prime_equal_to_sum.py) | [solution](Arrays/two_prime_equal_to_sum.py) |
+| 108 | Google | [Rotate String](Arrays/rotate_string.py) | [solution](Arrays/rotate_string.py) |
 
 ## Dynamic Programming / Recursion / Back Tracking
 |  # | Description               | Solution |
@@ -151,6 +152,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 36 | [Return two primes who's sum equals the number](Arrays/two_prime_equal_to_sum.py) | [solution](Arrays/two_prime_equal_to_sum.py) |
 | 37 | [Subarray sum equal to k](Arrays/subarray_sum_equal_k.py) | [solution](Arrays/subarray_sum_equal_k.py) |
 | 38 | [Richest customer wealth](Arrays/richest_customer_wealth.py) | [solution](Arrays/richest_customer_wealthgit.py) |
+| 39 | [Next Greater Element I](Arrays/next_greater_element_I.py) | [solution](Arrays/next_greater_element_I.py) |
 
 ## Link List
 |  # | Description               | Solution |
