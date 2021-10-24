@@ -40,6 +40,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 100 | Google | [Minimum steps to cover an infinite grid](Arrays/minimum_step_cover_infinite_grid.py) | [solution](Arrays/minimum_step_cover_infinite_grid.py) |
 | 101 | Alibaba | [Return two primes who's sum equals the number](Arrays/two_prime_equal_to_sum.py) | [solution](Arrays/two_prime_equal_to_sum.py) |
 | 108 | Google | [Rotate String](Arrays/rotate_string.py) | [solution](Arrays/rotate_string.py) |
+| 109 | Cisco | [Swap Odd Even bits](Arrays/109_swap_odd_even_bits.py) | [solution](Arrays/109_swap_odd_even_bits.py) |
+| 113 | Google | [Reverse word in a String](Arrays/reverse_word_string.py) | [solution](Arrays/reverse_word_string.py) |
 
 ## Dynamic Programming / Recursion / Back Tracking
 |  # | Description               | Solution |
@@ -108,6 +110,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 20  | [Diameter of Binary Tree ](Trees2/diameter_binary_tree.py) | [solution](Trees2/diameter_binary_tree.py) |
 | 21  | [Construct a BST from preorder traversal ](Trees2/construct_BST_from_preorder_traversal.py) | [solution](Trees2/construct_BST_from_preorder_traversal.py) |
 | 22  | [Cousin in Binary Tree ](Trees2/cousin_binary_tree.py) | [solution](Trees2/cousin_binary_tree.py) |
+| 23  | [Binary Tree Paths ](Trees2/110_binary_tree_paths.py) | [solution](Trees2/110_binary_tree_paths.py) |
+| 24  | [Count complete Tree Nodes ](Trees2/count_tree_nodes.py) | [solution](Trees2/count_tree_nodes.py) |
 
 
 ## Arrays
@@ -153,6 +157,9 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 37 | [Subarray sum equal to k](Arrays/subarray_sum_equal_k.py) | [solution](Arrays/subarray_sum_equal_k.py) |
 | 38 | [Richest customer wealth](Arrays/richest_customer_wealth.py) | [solution](Arrays/richest_customer_wealthgit.py) |
 | 39 | [Next Greater Element I](Arrays/next_greater_element_I.py) | [solution](Arrays/next_greater_element_I.py) |
+| 40 | [Reverse word in a String](Arrays/reverse_word_string.py) | [solution](Arrays/reverse_word_string.py) |
+| 41 | [Insert Delete Get Random (1)](Arrays/insert_delete_get_random.py) | [solution](Arrays/insert_delete_get_random.py) |
+| 42 | [Shortest Subarray to be Removed to Make Array Sorted](Arrays/shortest_subarray_remove_to_make_sorted.py) | [solution](Arrays/shortest_subarray_remove_to_make_sorted.py) |
 
 ## Link List
 |  # | Description               | Solution |
