@@ -171,6 +171,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 |  # | Description               | Solution |
 |----|---------------------------|---------------------------|
 | 1  | [Minimum parenthesis remove to make it valid](stacks_and_queues/86_minimum_parenthesis_remove.py) | [solution](stacks_and_queues/86_minimum_parenthesis_remove.py) |
+| 2  | [Min Stack](stacks_and_queues/min_stack.py) | [solution](stacks_and_queues/min_stack.py) |
 ## Bit Manipulation
 |  # | Description               | Solution |
 |----|---------------------------|---------------------------|
