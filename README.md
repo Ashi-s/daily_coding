@@ -42,6 +42,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 108 | Google | [Rotate String](Arrays/rotate_string.py) | [solution](Arrays/rotate_string.py) |
 | 109 | Cisco | [Swap Odd Even bits](Arrays/109_swap_odd_even_bits.py) | [solution](Arrays/109_swap_odd_even_bits.py) |
 | 113 | Google | [Reverse word in a String](Arrays/reverse_word_string.py) | [solution](Arrays/reverse_word_string.py) |
+| 115 | Google | [Subtree of Another Tree ](Trees2/subtree_of_another_tree.py) | [solution](Trees2/subtree_of_another_tree.py) |
 
 ## Dynamic Programming / Recursion / Back Tracking
 |  # | Description               | Solution |
@@ -112,6 +113,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 22  | [Cousin in Binary Tree ](Trees2/cousin_binary_tree.py) | [solution](Trees2/cousin_binary_tree.py) |
 | 23  | [Binary Tree Paths ](Trees2/110_binary_tree_paths.py) | [solution](Trees2/110_binary_tree_paths.py) |
 | 24  | [Count complete Tree Nodes ](Trees2/count_tree_nodes.py) | [solution](Trees2/count_tree_nodes.py) |
+| 25  | [Invert Binary Tree ](Trees2/invert_binary_tree.py) | [solution](Trees2/invert_binary_tree.py) |
+| 26  | [Subtree of Another Tree ](Trees2/subtree_of_another_tree.py) | [solution](Trees2/subtree_of_another_tree.py) |
 
 
 ## Arrays
