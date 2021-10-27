@@ -163,6 +163,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 40 | [Reverse word in a String](Arrays/reverse_word_string.py) | [solution](Arrays/reverse_word_string.py) |
 | 41 | [Insert Delete Get Random (1)](Arrays/insert_delete_get_random.py) | [solution](Arrays/insert_delete_get_random.py) |
 | 42 | [Shortest Subarray to be Removed to Make Array Sorted](Arrays/shortest_subarray_remove_to_make_sorted.py) | [solution](Arrays/shortest_subarray_remove_to_make_sorted.py) |
+| 43 | [Sort Colors](Arrays/sort_colors.py) | [solution](Arrays/sort_colors.py) |
 
 ## Link List
 |  # | Description               | Solution |
