@@ -85,6 +85,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 35  | [Best Time to Buy & Sell Stock with Cooldown](Recursion/buy_sell_stock_with_cooldown.py) | [solution](Recursion/buy_sell_stock_with_cooldown.py) |
 | 36  | [Buy & Sell Stock III](Recursion/buy_sell_stock_III.py) | [solution](Recursion/buy_sell_stock_III.py) |
 | 37  | [Path Sum III](Recursion/path_sum_III.py) | [solution](Recursion/path_sum_III.py) |
+| 38  | [3 Sum](Recursion/3_sum.py) | [solution](Recursion/3_sum.py) |
 
 ## Trees
 |  # | Description               | Solution |
@@ -115,6 +116,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 24  | [Count complete Tree Nodes ](Trees2/count_tree_nodes.py) | [solution](Trees2/count_tree_nodes.py) |
 | 25  | [Invert Binary Tree ](Trees2/invert_binary_tree.py) | [solution](Trees2/invert_binary_tree.py) |
 | 26  | [Subtree of Another Tree ](Trees2/subtree_of_another_tree.py) | [solution](Trees2/subtree_of_another_tree.py) |
+| 27  | [Maximum Level Sum of a Binary Tree ](Trees2/maximum_level_sum_binary_tree.py) | [solution](Trees2/maximum_level_sum_binary_tree.py) |
 
 
 ## Arrays
