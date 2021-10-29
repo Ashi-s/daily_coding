@@ -86,6 +86,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 36  | [Buy & Sell Stock III](Recursion/buy_sell_stock_III.py) | [solution](Recursion/buy_sell_stock_III.py) |
 | 37  | [Path Sum III](Recursion/path_sum_III.py) | [solution](Recursion/path_sum_III.py) |
 | 38  | [3 Sum](Recursion/3_sum.py) | [solution](Recursion/3_sum.py) |
+| 39  | [Rotting Tomatoes](Recursion/rotting_tomatoes.py) | [solution](Recursion/rotting_tomatoes.py) |
 
 ## Trees
 |  # | Description               | Solution |
