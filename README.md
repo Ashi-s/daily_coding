@@ -174,6 +174,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 |----|---------------------------|---------------------------|
 | 1  | [Reverse a Link List](LinkList/reverse.py) | [solution](LinkList/reverse.py) |
 | 2  | [Split Link List in Parts](LinkList/split_link_list_in_parts.py) | [solution](LinkList/split_link_list_in_parts.py) |
+| 3  | [Flatten a Multilevel Doubly Linked List](LinkList/flatten_multilevel_doubly_linked_list.py) | [solution](LinkList/flatten_multilevel_doubly_linked_list.py) |
 
 ## Stack and Queues
 |  # | Description               | Solution |
