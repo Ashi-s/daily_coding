@@ -88,6 +88,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 38  | [3 Sum](Recursion/3_sum.py) | [solution](Recursion/3_sum.py) |
 | 39  | [Rotting Tomatoes](Recursion/rotting_tomatoes.py) | [solution](Recursion/rotting_tomatoes.py) |
 | 40  | [Different ways to Add Parenthesis](Recursion/different_ways_add_parenthesis.py) | [solution](Recursion/different_ways_add_parenthesis.py) |
+| 41  | [Unique Paths III](Recursion/unique_paths_III.py) | [solution](Recursion/unique_paths_III.py) |
 
 ## Trees
 |  # | Description               | Solution |
