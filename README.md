@@ -43,6 +43,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 109 | Cisco | [Swap Odd Even bits](Arrays/109_swap_odd_even_bits.py) | [solution](Arrays/109_swap_odd_even_bits.py) |
 | 113 | Google | [Reverse word in a String](Arrays/reverse_word_string.py) | [solution](Arrays/reverse_word_string.py) |
 | 115 | Google | [Subtree of Another Tree ](Trees2/subtree_of_another_tree.py) | [solution](Trees2/subtree_of_another_tree.py) |
+| 122 | Zillow | [Matrix max coins ](Recursion/matrix_max_coins.py) | [solution](Trees2/matrix_max_coins.py) |
 
 ## Dynamic Programming / Recursion / Back Tracking
 |  # | Description               | Solution |
@@ -120,6 +121,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 25  | [Invert Binary Tree ](Trees2/invert_binary_tree.py) | [solution](Trees2/invert_binary_tree.py) |
 | 26  | [Subtree of Another Tree ](Trees2/subtree_of_another_tree.py) | [solution](Trees2/subtree_of_another_tree.py) |
 | 27  | [Maximum Level Sum of a Binary Tree ](Trees2/maximum_level_sum_binary_tree.py) | [solution](Trees2/maximum_level_sum_binary_tree.py) |
+| 28  | [Sum Root to Leaf Numbers ](Trees2/sum_root_to_leaf_numbers.py) | [solution](Trees2/sum_root_to_leaf_numbers.py) |
+| 29  | [Sum of Left Leafs ](Trees2/sum_of_left_leafs.py) | [solution](Trees2/sum_of_left_leafs.py) |
 
 
 ## Arrays
