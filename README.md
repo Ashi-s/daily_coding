@@ -45,6 +45,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 115 | Google | [Subtree of Another Tree ](Trees2/subtree_of_another_tree.py) | [solution](Trees2/subtree_of_another_tree.py) |
 | 122 | Zillow | [Matrix max coins ](Recursion/matrix_max_coins.py) | [solution](Trees2/matrix_max_coins.py) |
 | 125 | Google | [Two Sum IV - Input is a BST ](Trees2/two_sum_IV.py) | [solution](Trees2/two_sum_IV.py) |
+| 126 | Facebook | [Rotate Arrays](Arrays/rotate_arrays.py) | [solution](Arrays/rotate_arrays.py) |
 
 ## Dynamic Programming / Recursion / Back Tracking
 |  # | Description               | Solution |
