@@ -44,6 +44,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 113 | Google | [Reverse word in a String](Arrays/reverse_word_string.py) | [solution](Arrays/reverse_word_string.py) |
 | 115 | Google | [Subtree of Another Tree ](Trees2/subtree_of_another_tree.py) | [solution](Trees2/subtree_of_another_tree.py) |
 | 122 | Zillow | [Matrix max coins ](Recursion/matrix_max_coins.py) | [solution](Trees2/matrix_max_coins.py) |
+| 125 | Google | [Two Sum IV - Input is a BST ](Trees2/two_sum_IV.py) | [solution](Trees2/two_sum_IV.py) |
 
 ## Dynamic Programming / Recursion / Back Tracking
 |  # | Description               | Solution |
@@ -172,6 +173,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 41 | [Insert Delete Get Random (1)](Arrays/insert_delete_get_random.py) | [solution](Arrays/insert_delete_get_random.py) |
 | 42 | [Shortest Subarray to be Removed to Make Array Sorted](Arrays/shortest_subarray_remove_to_make_sorted.py) | [solution](Arrays/shortest_subarray_remove_to_make_sorted.py) |
 | 43 | [Sort Colors](Arrays/sort_colors.py) | [solution](Arrays/sort_colors.py) |
+| 44 | [Arranging Coins](Arrays/arranging_coins.py) | [solution](Arrays/arranging_coins.py) |
 
 ## Link List
 |  # | Description               | Solution |
