@@ -175,6 +175,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 42 | [Shortest Subarray to be Removed to Make Array Sorted](Arrays/shortest_subarray_remove_to_make_sorted.py) | [solution](Arrays/shortest_subarray_remove_to_make_sorted.py) |
 | 43 | [Sort Colors](Arrays/sort_colors.py) | [solution](Arrays/sort_colors.py) |
 | 44 | [Arranging Coins](Arrays/arranging_coins.py) | [solution](Arrays/arranging_coins.py) |
+| 44 | [Multiply Strings](Arrays/multiply_strings.py) | [solution](Arrays/multiply_strings.py) |
 
 ## Link List
 |  # | Description               | Solution |
