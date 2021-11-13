@@ -178,8 +178,9 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 44 | [Arranging Coins](Arrays/arranging_coins.py) | [solution](Arrays/arranging_coins.py) |
 | 45 | [Multiply Strings](Arrays/multiply_strings.py) | [solution](Arrays/multiply_strings.py) |
 | 46 | [Generate Pi value using random number between 0 & 1](Arrays/generate_pi_using_0_and_1.py) | [solution](Arrays/generate_pi_using_0_and_1.py) |
-| 46 | [Best Time to Buy and Sell Stock II](Arrays/buy_sell_stock_II.py) | [solution](Arrays/buy_sell_stock_II.py) |
-| 47 | [Minimum Value to Get Positive Step by Step Sum](Arrays/minimum_value_to_get_positive.py) | [solution](Arrays/minimum_value_to_get_positive.py) |
+| 47 | [Best Time to Buy and Sell Stock II](Arrays/buy_sell_stock_II.py) | [solution](Arrays/buy_sell_stock_II.py) |
+| 48 | [Minimum Value to Get Positive Step by Step Sum](Arrays/minimum_value_to_get_positive.py) | [solution](Arrays/minimum_value_to_get_positive.py) |
+| 49 | [Daily temperatures](Arrays/daily_temperatures.py) | [solution](Arrays/daily_temperatures.py) |
 
 ## Link List
 |  # | Description               | Solution |
