@@ -92,6 +92,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 39  | [Rotting Tomatoes](Recursion/rotting_tomatoes.py) | [solution](Recursion/rotting_tomatoes.py) |
 | 40  | [Different ways to Add Parenthesis](Recursion/different_ways_add_parenthesis.py) | [solution](Recursion/different_ways_add_parenthesis.py) |
 | 41  | [Unique Paths III](Recursion/unique_paths_III.py) | [solution](Recursion/unique_paths_III.py) |
+| 42  | [Iterator for Combinations](Recursion/iterator_for_combination.py) | [solution](Recursion/iterator_for_combination.py) |
 
 ## Trees
 |  # | Description               | Solution |
