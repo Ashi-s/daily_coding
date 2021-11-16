@@ -183,6 +183,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 47 | [Best Time to Buy and Sell Stock II](Arrays/buy_sell_stock_II.py) | [solution](Arrays/buy_sell_stock_II.py) |
 | 48 | [Minimum Value to Get Positive Step by Step Sum](Arrays/minimum_value_to_get_positive.py) | [solution](Arrays/minimum_value_to_get_positive.py) |
 | 49 | [Daily temperatures](Arrays/daily_temperatures.py) | [solution](Arrays/daily_temperatures.py) |
+| 50 | [ Kth Smallest Number in Multiplication Table](Arrays/kth_smallest_multiplication_table.py) | [solution](Arrays/kth_smallest_multiplication_table.py) |
 
 ## Link List
 |  # | Description               | Solution |
