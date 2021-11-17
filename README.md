@@ -94,6 +94,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 41  | [Unique Paths III](Recursion/unique_paths_III.py) | [solution](Recursion/unique_paths_III.py) |
 | 42  | [Iterator for Combinations](Recursion/iterator_for_combination.py) | [solution](Recursion/iterator_for_combination.py) |
 | 43  | [Largest Divisible Subset](Recursion/largest_divisible_subset.py) | [solution](Recursion/largest_divisible_subset.py) |
+| 44  | [Unique Paths](Recursion/unique_paths.py) | [solution](Recursion/unique_paths.py) |
 
 ## Trees
 |  # | Description               | Solution |
