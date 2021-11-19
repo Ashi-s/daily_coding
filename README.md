@@ -186,6 +186,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 49 | [Daily temperatures](Arrays/daily_temperatures.py) | [solution](Arrays/daily_temperatures.py) |
 | 50 | [ Kth Smallest Number in Multiplication Table](Arrays/kth_smallest_multiplication_table.py) | [solution](Arrays/kth_smallest_multiplication_table.py) |
 | 51 | [ Find All Numbers Disappeared in an Array ](Arrays/number_disappeared_array.py) | [solution](Arrays/number_disappeared_array.py) |
+| 52 | [ Hamming Distance ](Arrays/hamming_distance.py) | [solution](Arrays/hamming_distance.py) |
 
 ## Link List
 |  # | Description               | Solution |
