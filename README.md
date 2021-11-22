@@ -130,6 +130,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 29  | [Sum of Left Leafs ](Trees2/sum_of_left_leafs.py) | [solution](Trees2/sum_of_left_leafs.py) |
 | 30  | [Unique BST ](Trees2/unique_BST.py) | [solution](Trees2/unique_BST.py) |
 | 31  | [Construct Binary Tree from Inorder and Postorder Traversal ](Trees2/tree_from_inorder_postorder.py) | [solution](Trees2/tree_from_inorder_postorder.py) |
+| 32  | [Delete node ina BST ](Trees2/delete_node_bst.py) | [solution](Trees2/delete_node_bst.py) |
 
 
 ## Arrays
