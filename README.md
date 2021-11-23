@@ -200,6 +200,12 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 4  | [Swap Nodes in Pairs](LinkList/swap_nodes_in_pairs.py) | [solution](LinkList/swap_nodes_in_pairs.py) |
 | 5  | [Remove Linked List Elements](LinkList/remove_element.py) | [solution](LinkList/remove_element.py) |
 
+## Graph
+|  # | Description               | Solution |
+|----|---------------------------|---------------------------|
+| 1  | [ Largest Component Size by Common Factor ](Graph/largest_component_by_factor.py) | [solution](Graph/largest_component_by_factor.py) |
+| 2  | [Connected components undirected graph ](Trees2/connected_component_undirected_graph.py) | [solution](Trees2/connected_component_undirected_graph.py) |
+
 ## Stack and Queues
 |  # | Description               | Solution |
 |----|---------------------------|---------------------------|
