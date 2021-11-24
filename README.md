@@ -190,6 +190,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 51 | [ Find All Numbers Disappeared in an Array ](Arrays/number_disappeared_array.py) | [solution](Arrays/number_disappeared_array.py) |
 | 52 | [ Hamming Distance ](Arrays/hamming_distance.py) | [solution](Arrays/hamming_distance.py) |
 | 53 | [ Single Element in a Sorted Array ](Arrays/single_element_sorted_array.py) | [solution](Arrays/single_element_sorted_array.py) |
+| 53 | [ Interval List Intersections ](Arrays/interval_list_intersection.py) | [solution](Arrays/interval_list_intersection.py) |
+
 
 ## Link List
 |  # | Description               | Solution |
