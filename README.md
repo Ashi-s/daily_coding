@@ -46,6 +46,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 122 | Zillow | [Matrix max coins ](Recursion/matrix_max_coins.py) | [solution](Trees2/matrix_max_coins.py) |
 | 125 | Google | [Two Sum IV - Input is a BST ](Trees2/two_sum_IV.py) | [solution](Trees2/two_sum_IV.py) |
 | 126 | Facebook | [Rotate Arrays](Arrays/rotate_arrays.py) | [solution](Arrays/rotate_arrays.py) |
+| 146 | Facebook | [Binary Tree Pruning](Trees2/tree_pruning.py) | [solution](Trees2/tree_pruning.py) |
 
 ## Dynamic Programming / Recursion / Back Tracking
 |  # | Description               | Solution |
@@ -191,7 +192,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 51 | [ Find All Numbers Disappeared in an Array ](Arrays/number_disappeared_array.py) | [solution](Arrays/number_disappeared_array.py) |
 | 52 | [ Hamming Distance ](Arrays/hamming_distance.py) | [solution](Arrays/hamming_distance.py) |
 | 53 | [ Single Element in a Sorted Array ](Arrays/single_element_sorted_array.py) | [solution](Arrays/single_element_sorted_array.py) |
-| 53 | [ Interval List Intersections ](Arrays/interval_list_intersection.py) | [solution](Arrays/interval_list_intersection.py) |
+| 54 | [ Interval List Intersections ](Arrays/interval_list_intersection.py) | [solution](Arrays/interval_list_intersection.py) |
 
 
 ## Link List
@@ -208,6 +209,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 |----|---------------------------|---------------------------|
 | 1  | [ Largest Component Size by Common Factor ](Graph/largest_component_by_factor.py) | [solution](Graph/largest_component_by_factor.py) |
 | 2  | [Connected components undirected graph ](Trees2/connected_component_undirected_graph.py) | [solution](Trees2/connected_component_undirected_graph.py) |
+| 3  | [All Paths From Source to Target ](Graph/all_paths_source_to_target.py) | [solution](Graph/all_paths_source_to_target.py) |
 
 ## Stack and Queues
 |  # | Description               | Solution |
