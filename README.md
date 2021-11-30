@@ -194,6 +194,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 53 | [ Single Element in a Sorted Array ](Arrays/single_element_sorted_array.py) | [solution](Arrays/single_element_sorted_array.py) |
 | 54 | [ Interval List Intersections ](Arrays/interval_list_intersection.py) | [solution](Arrays/interval_list_intersection.py) |
 | 55 | [ Accounts Merge ](Arrays/accounts_merge.py) | [solution](Arrays/accounts_merge.py) |
+| 56 | [  Largest Rectangle in Histogram ](Arrays/largest_rectangle_histogram.py) | [solution](Arrays/largest_rectangle_histogram.py) |
 
 
 ## Link List
