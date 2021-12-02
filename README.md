@@ -205,6 +205,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 3  | [Flatten a Multilevel Doubly Linked List](LinkList/flatten_multilevel_doubly_linked_list.py) | [solution](LinkList/flatten_multilevel_doubly_linked_list.py) |
 | 4  | [Swap Nodes in Pairs](LinkList/swap_nodes_in_pairs.py) | [solution](LinkList/swap_nodes_in_pairs.py) |
 | 5  | [Remove Linked List Elements](LinkList/remove_element.py) | [solution](LinkList/remove_element.py) |
+| 6  | [Odd Even Linked List](LinkList/odd_even_link_list.py) | [solution](LinkList/odd_even_link_list.py) |
 
 ## Graph
 |  # | Description               | Solution |
