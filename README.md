@@ -195,6 +195,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 54 | [ Interval List Intersections ](Arrays/interval_list_intersection.py) | [solution](Arrays/interval_list_intersection.py) |
 | 55 | [ Accounts Merge ](Arrays/accounts_merge.py) | [solution](Arrays/accounts_merge.py) |
 | 56 | [  Largest Rectangle in Histogram ](Arrays/largest_rectangle_histogram.py) | [solution](Arrays/largest_rectangle_histogram.py) |
+| 57 | [ Maximum Product Subarray ](Arrays/maximum_product_subarray.py) | [solution](Arrays/maximum_product_subarray.py) |
 
 
 ## Link List
