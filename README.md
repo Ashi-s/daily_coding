@@ -224,6 +224,12 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 |  # | Description               | Solution |
 |----|---------------------------|---------------------------|
 | 1  | [Bitwise AND of Numbers Range](bit-manipulation/bitwise_AND_of_number_range.py) | [solution](bit-manipulation/bitwise_AND_of_number_range.py) |
+
+## Trie
+
+|  # | Description               | Solution |
+|----|---------------------------|---------------------------|
+| 1  | [ Stream of Characters ](Trie/stream_of_characters.py) | [solution](Trie/stream_of_characters.py) |
 ## How to contribute
 
 Feel free to send me a pull requests, if you spot issues with any of my solutions!
