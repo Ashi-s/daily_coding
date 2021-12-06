@@ -196,6 +196,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 55 | [ Accounts Merge ](Arrays/accounts_merge.py) | [solution](Arrays/accounts_merge.py) |
 | 56 | [  Largest Rectangle in Histogram ](Arrays/largest_rectangle_histogram.py) | [solution](Arrays/largest_rectangle_histogram.py) |
 | 57 | [ Maximum Product Subarray ](Arrays/maximum_product_subarray.py) | [solution](Arrays/maximum_product_subarray.py) |
+| 58 | [ Remove Duplicate Letters ](Arrays/remove_duplicate_least_lexographical.py) | [solution](Arrays/remove_duplicate_least_lexographical.py) |
 
 
 ## Link List
