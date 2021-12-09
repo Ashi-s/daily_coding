@@ -96,6 +96,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 42  | [Iterator for Combinations](Recursion/iterator_for_combination.py) | [solution](Recursion/iterator_for_combination.py) |
 | 43  | [Largest Divisible Subset](Recursion/largest_divisible_subset.py) | [solution](Recursion/largest_divisible_subset.py) |
 | 44  | [Unique Paths](Recursion/unique_paths.py) | [solution](Recursion/unique_paths.py) |
+| 45  | [Jump Game III](Recursion/jump_game_III.py) | [solution](Recursion/jump_game_III.py) |
 
 ## Trees
 |  # | Description               | Solution |
