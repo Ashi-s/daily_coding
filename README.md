@@ -97,6 +97,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 43  | [Largest Divisible Subset](Recursion/largest_divisible_subset.py) | [solution](Recursion/largest_divisible_subset.py) |
 | 44  | [Unique Paths](Recursion/unique_paths.py) | [solution](Recursion/unique_paths.py) |
 | 45  | [Jump Game III](Recursion/jump_game_III.py) | [solution](Recursion/jump_game_III.py) |
+| 46  | [Domino and Tromino Tiling](Recursion/dominio_tromino_tiling.py) | [solution](Recursion/dominio_tromino_tiling.py) |
 
 ## Trees
 |  # | Description               | Solution |
