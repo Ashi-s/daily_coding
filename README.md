@@ -202,6 +202,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 58 | [ Remove Duplicate Letters ](Arrays/remove_duplicate_least_lexographical.py) | [solution](Arrays/remove_duplicate_least_lexographical.py) |
 | 59 | [Minimum Cost to Move Chips to The Same Position](Arrays/minimum_cost_move_chips.py) | [solution](Arrays/minimum_cost_move_chips.py) |
 | 60 | [Partition Equal Subset Sum](Arrays/partition_equal_subset_sum.py) | [solution](Arrays/partition_equal_subset_sum.py) |
+| 61 | [Consecutive Characters](Arrays/consecutive_characters.py) | [solution](Arrays/consecutive_characters.py) |
 
 
 ## Link List
