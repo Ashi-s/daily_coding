@@ -136,6 +136,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 32  | [Delete node ina BST ](Trees2/delete_node_bst.py) | [solution](Trees2/delete_node_bst.py) |
 | 33  | [Binary Tree Pruning ](Trees2/tree_pruning.py) | [solution](Trees2/tree_pruning.py) |
 | 34  | [Binary Tree Tilt ](Trees2/binary_tree_tilt.py) | [solution](Trees2/binary_tree_tilt.py) |
+| 34  | [Range Sum of BST ](Trees2/range_sum_of_BST.py) | [solution](Trees2/range_sum_of_BST.py) |
 
 
 ## Arrays
