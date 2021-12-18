@@ -98,6 +98,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 44  | [Unique Paths](Recursion/unique_paths.py) | [solution](Recursion/unique_paths.py) |
 | 45  | [Jump Game III](Recursion/jump_game_III.py) | [solution](Recursion/jump_game_III.py) |
 | 46  | [Domino and Tromino Tiling](Recursion/dominio_tromino_tiling.py) | [solution](Recursion/dominio_tromino_tiling.py) |
+| 47  | [Numbers At Most N Given Digit Set](Recursion/number_atmost_n_given_digits.py) | [solution](Recursion/number_atmost_n_given_digits.py) |
 
 ## Trees
 |  # | Description               | Solution |
