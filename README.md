@@ -205,6 +205,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 59 | [Minimum Cost to Move Chips to The Same Position](Arrays/minimum_cost_move_chips.py) | [solution](Arrays/minimum_cost_move_chips.py) |
 | 60 | [Partition Equal Subset Sum](Arrays/partition_equal_subset_sum.py) | [solution](Arrays/partition_equal_subset_sum.py) |
 | 61 | [Consecutive Characters](Arrays/consecutive_characters.py) | [solution](Arrays/consecutive_characters.py) |
+| 62 | [Minimum Absolute Difference](Arrays/minimum_absolute_difference.py) | [solution](Arrays/minimum_absolute_difference.py) |
 
 
 ## Link List
