@@ -207,6 +207,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 61 | [Consecutive Characters](Arrays/consecutive_characters.py) | [solution](Arrays/consecutive_characters.py) |
 | 62 | [Minimum Absolute Difference](Arrays/minimum_absolute_difference.py) | [solution](Arrays/minimum_absolute_difference.py) |
 | 63 | [Power of Two](Arrays/power_of_2.py) | [solution](Arrays/power_of_2.py) |
+| 64 | [Remove Covered Intervals](Arrays/remove_covered_intervals.py) | [solution](Arrays/remove_covered_intervals.py) |
 
 
 ## Link List
@@ -228,6 +229,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 1  | [ Largest Component Size by Common Factor ](Graph/largest_component_by_factor.py) | [solution](Graph/largest_component_by_factor.py) |
 | 2  | [Connected components undirected graph ](Trees2/connected_component_undirected_graph.py) | [solution](Trees2/connected_component_undirected_graph.py) |
 | 3  | [All Paths From Source to Target ](Graph/all_paths_source_to_target.py) | [solution](Graph/all_paths_source_to_target.py) |
+| 4  | [Course Schedule II ](Graph/course_schedule_II.py) | [solution](Graph/course_schedule_II.py) |
 
 ## Stack and Queues
 |  # | Description               | Solution |
