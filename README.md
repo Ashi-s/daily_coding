@@ -247,6 +247,6 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 1  | [ Stream of Characters ](Trie/stream_of_characters.py) | [solution](Trie/stream_of_characters.py) |
 ## How to contribute
 
-Feel free to send me a pull requests, if you spot issues with any of my solutions!
+Feel free to send me a pull requests, if you spot issues with any of my solutions! 
 
 Happy Coding !!!
