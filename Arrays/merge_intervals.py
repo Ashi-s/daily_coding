@@ -17,7 +17,7 @@
 # Explanation: Intervals [1,4] and [4,5] are considered overlapping.
 
 class Solution:
-    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
+    def merge(intervals):
       
       if len(intervals) == 0:
         return []
