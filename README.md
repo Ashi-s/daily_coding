@@ -208,6 +208,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 62 | [Minimum Absolute Difference](Arrays/minimum_absolute_difference.py) | [solution](Arrays/minimum_absolute_difference.py) |
 | 63 | [Power of Two](Arrays/power_of_2.py) | [solution](Arrays/power_of_2.py) |
 | 64 | [Remove Covered Intervals](Arrays/remove_covered_intervals.py) | [solution](Arrays/remove_covered_intervals.py) |
+| 65 | [Remove Covered Intervals](Arrays/k_closest_points_to_origin.py) | [solution](Arrays/k_closest_points_to_origin.py) |
 
 
 ## Link List
