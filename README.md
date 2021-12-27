@@ -209,6 +209,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 63 | [Power of Two](Arrays/power_of_2.py) | [solution](Arrays/power_of_2.py) |
 | 64 | [Remove Covered Intervals](Arrays/remove_covered_intervals.py) | [solution](Arrays/remove_covered_intervals.py) |
 | 65 | [Remove Covered Intervals](Arrays/k_closest_points_to_origin.py) | [solution](Arrays/k_closest_points_to_origin.py) |
+| 66 | [Number Complement](Arrays/number_complement.py) | [solution](Arrays/number_complement.py) |
 
 
 ## Link List
