@@ -139,6 +139,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 34  | [Binary Tree Tilt ](Trees2/binary_tree_tilt.py) | [solution](Trees2/binary_tree_tilt.py) |
 | 35  | [Range Sum of BST ](Trees2/range_sum_of_BST.py) | [solution](Trees2/range_sum_of_BST.py) |
 | 36  | [Populating Next Right Pointers in Each Node ](Trees2/populating_next_right_pointers.py) | [solution](Trees2/populating_next_right_pointers.py) |
+| 36  | [Maximum Difference Between Node and Ancestor ](Trees2/maximum_difference_ancestor.py) | [solution](Trees2/maximum_difference_ancestor.py) |
 
 
 ## Arrays
