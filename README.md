@@ -214,6 +214,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 66 | [Number Complement](Arrays/number_complement.py) | [solution](Arrays/number_complement.py) |
 | 67 | [Best Sightseeing Pair](Arrays/best_sightseeing_pair.py) | [solution](Arrays/best_sightseeing_pair.py) |
 | 68 | [Smallest Integer Divisible by K](Arrays/smallest_divisible_by_k.py) | [solution](Arrays/smallest_divisible_by_k.py) |
+| 69 | [Pairs of Songs With Total Durations Divisible by 60](Arrays/pairs_of_song.py) | [solution](Arrays/pairs_of_song.py) |
 
 
 ## Link List
