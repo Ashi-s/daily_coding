@@ -16,24 +16,24 @@
 # Output: [[1,5]]
 # Explanation: Intervals [1,4] and [4,5] are considered overlapping.
 
-class Solution:
-    def merge(intervals):
-      
-      if len(intervals) == 0:
-        return []
-      res = []
-      intervals.sort(key = lambda x:x[0])
-      
-      start = intervals[0][0]
-      end = intervals[0][1]
-      
-      for i in range(1, len(intervals)):
-        if intervals[i][0] > end:
-          res.append((start, end))
-          start = intervals[i][0]
-          end = intervals[i][1]
-        else:
-          end = max(end, intervals[i][1])
-          
+
+def merge(intervals):
+  
+  if len(intervals) == 0:
+    return []
+  res = []
+  intervals.sort(key = lambda x:x[0])
+  
+  start = intervals[0][0]
+  end = intervals[0][1]
+  
+  for i in range(1, len(intervals)):
+    if intervals[i][0] > end:
       res.append((start, end))
-      return res
+      start = intervals[i][0]
+      end = intervals[i][1]
+    else:
+      end = max(end, intervals[i][1])
+      
+  res.append((start, end))
+  return res
