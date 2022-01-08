@@ -100,6 +100,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 46  | [Domino and Tromino Tiling](Recursion/dominio_tromino_tiling.py) | [solution](Recursion/dominio_tromino_tiling.py) |
 | 47  | [Numbers At Most N Given Digit Set](Recursion/number_atmost_n_given_digits.py) | [solution](Recursion/number_atmost_n_given_digits.py) |
 | 48  | [Palindrome Partitioning](Recursion/palindrome_partitioning.py) | [solution](Recursion/palindrome_partitioning.py) |
+| 49  | [Cherry Pickup](Recursion/cherry_pickup.py) | [solution](Recursion/cherry_pickup.py) |
 
 ## Trees
 |  # | Description               | Solution |
