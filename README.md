@@ -219,6 +219,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 69 | [Pairs of Songs With Total Durations Divisible by 60](Arrays/pairs_of_song.py) | [solution](Arrays/pairs_of_song.py) |
 | 70 | [Find the Town Judge](Arrays/find_town_judge.py) | [solution](Arrays/find_town_judge.py) |
 | 71 | [Car Pooling](Arrays/car_polling.py) | [solution](Arrays/car_polling.py) |
+| 72 | [Robot Bounded In Circle](Arrays/robot_bounded_in_circle.py) | [solution](Arrays/robot_bounded_in_circle.py) |
 
 
 ## Link List
