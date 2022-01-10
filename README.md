@@ -255,6 +255,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 |  # | Description               | Solution |
 |----|---------------------------|---------------------------|
 | 1  | [Bitwise AND of Numbers Range](bit-manipulation/bitwise_AND_of_number_range.py) | [solution](bit-manipulation/bitwise_AND_of_number_range.py) |
+| 2 | [Add Binary](bit-manipulation/add_binary.py) | [solution](bit-manipulation/add_binary.py) |
 
 ## Trie
 
