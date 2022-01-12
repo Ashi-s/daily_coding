@@ -141,8 +141,9 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 34  | [Binary Tree Tilt ](Trees2/binary_tree_tilt.py) | [solution](Trees2/binary_tree_tilt.py) |
 | 35  | [Range Sum of BST ](Trees2/range_sum_of_BST.py) | [solution](Trees2/range_sum_of_BST.py) |
 | 36  | [Populating Next Right Pointers in Each Node ](Trees2/populating_next_right_pointers.py) | [solution](Trees2/populating_next_right_pointers.py) |
-| 36  | [Maximum Difference Between Node and Ancestor ](Trees2/maximum_difference_ancestor.py) | [solution](Trees2/maximum_difference_ancestor.py) |
-| 36  | [Sum of Root To Leaf Binary Numbers ](Trees2/sum_root_to_leaf_binary_numbers.py) | [solution](Trees2/sum_root_to_leaf_binary_numbers.py) |
+| 37  | [Maximum Difference Between Node and Ancestor ](Trees2/maximum_difference_ancestor.py) | [solution](Trees2/maximum_difference_ancestor.py) |
+| 38  | [Sum of Root To Leaf Binary Numbers ](Trees2/sum_root_to_leaf_binary_numbers.py) | [solution](Trees2/sum_root_to_leaf_binary_numbers.py) |
+| 39  | [ Insert into a Binary Search Tree ](Trees2/insert_into_BST.py) | [solution](Trees2/insert_into_BST.py) |
 
 
 
