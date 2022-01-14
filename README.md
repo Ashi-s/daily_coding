@@ -224,6 +224,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 71 | [Car Pooling](Arrays/car_polling.py) | [solution](Arrays/car_polling.py) |
 | 72 | [Robot Bounded In Circle](Arrays/robot_bounded_in_circle.py) | [solution](Arrays/robot_bounded_in_circle.py) |
 | 73 | [Minimum Number of Arrows to Burst Balloons](Arrays/minimum_arrows_burst_ballons.py) | [solution](Arrays/minimum_arrows_burst_ballons.py) |
+| 74 | [String to Integer (atoi)](Arrays/integer_tostring_atoi.py) | [solution](Arrays/integer_tostring_atoi.py) |
 
 
 ## Link List
