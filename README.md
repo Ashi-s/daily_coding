@@ -226,6 +226,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 72 | [Robot Bounded In Circle](Arrays/robot_bounded_in_circle.py) | [solution](Arrays/robot_bounded_in_circle.py) |
 | 73 | [Minimum Number of Arrows to Burst Balloons](Arrays/minimum_arrows_burst_ballons.py) | [solution](Arrays/minimum_arrows_burst_ballons.py) |
 | 74 | [String to Integer (atoi)](Arrays/integer_tostring_atoi.py) | [solution](Arrays/integer_tostring_atoi.py) |
+| 75 | [Maximize Distance to Closest Person](Arrays/max_distance_closest_person.py) | [solution](Arrays/max_distance_closest_person.py) |
 
 
 ## Link List
