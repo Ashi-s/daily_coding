@@ -228,6 +228,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 74 | [String to Integer (atoi)](Arrays/integer_tostring_atoi.py) | [solution](Arrays/integer_tostring_atoi.py) |
 | 75 | [Maximize Distance to Closest Person](Arrays/max_distance_closest_person.py) | [solution](Arrays/max_distance_closest_person.py) |
 | 76 | [Word pattern](Arrays/word_pattern.py) | [solution](Arrays/word_pattern.py) |
+| 77 | [Can Place Flowers](Arrays/can_place_flowers.py) | [solution](Arrays/can_place_flowers.py) |
 
 
 ## Link List
