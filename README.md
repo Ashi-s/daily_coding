@@ -245,6 +245,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 9  | [Reorder List](LinkList/reorder_list.py) | [solution](LinkList/reorder_list.py) |
 | 10 | [Middle of the Linked List](LinkList/middle_of_linked_list.py) | [solution](LinkList/middle_of_linked_list.py) |
 | 11 | [Linked List Random Node](LinkList/random_node.py) | [solution](LinkList/random_node.py) |
+| 12 | [Linked List Cycle](LinkList/link_list_cycle.py) | [solution](LinkList/link_list_cycle.py) |
+| 13 | [Linked List Cycle II](LinkList/link_list_cycle_II.py) | [solution](LinkList/link_list_cycle_II.py) |
 
 ## Graph
 |  # | Description               | Solution |
@@ -266,6 +268,13 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 1  | [Bitwise AND of Numbers Range](bit-manipulation/bitwise_AND_of_number_range.py) | [solution](bit-manipulation/bitwise_AND_of_number_range.py) |
 | 2 | [Add Binary](bit-manipulation/add_binary.py) | [solution](bit-manipulation/add_binary.py) |
 
+## Binary Search
+
+|  # | Description               | Solution |
+|----|---------------------------|---------------------------|
+| 1  | [ Koko Eating Bananas ](BinarySearch/koko_eating_bananas.py) | [solution](BinarySearch/koko_eating_bananas.py) |
+| 2  | [ Search Insert Position ](BinarySearch/search_insert_position.py) | [solution](BinarySearch/search_insert_position.py) |
+| 3  | [ Koko Eating Bananas ](BinarySearch/search_rotated_array.py) | [solution](BinarySearch/search_rotated_array.py) |
 ## Trie
 
 |  # | Description               | Solution |
