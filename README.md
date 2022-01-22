@@ -102,6 +102,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 48  | [Palindrome Partitioning](Recursion/palindrome_partitioning.py) | [solution](Recursion/palindrome_partitioning.py) |
 | 49  | [Cherry Pickup](Recursion/cherry_pickup.py) | [solution](Recursion/cherry_pickup.py) |
 | 50  | [Jump Game IV](Recursion/jump_game_IV.py) | [solution](Recursion/jump_game_IV.py) |
+| 51  | [Stone Game IV](Recursion/stone_game_IV.py) | [solution](Recursion/stone_game_IV.py) |
 
 ## Trees
 |  # | Description               | Solution |
