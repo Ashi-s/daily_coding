@@ -231,6 +231,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 76 | [Word pattern](Arrays/word_pattern.py) | [solution](Arrays/word_pattern.py) |
 | 77 | [Can Place Flowers](Arrays/can_place_flowers.py) | [solution](Arrays/can_place_flowers.py) |
 | 78 | [Gas Stations](Arrays/gas_stations.py) | [solution](Arrays/gas_stations.py) |
+| 78 | [Sequential Digits](Arrays/sequential_digits.py) | [solution](Arrays/sequential_digits.py) |
 
 
 ## Link List
