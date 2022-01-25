@@ -234,6 +234,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 78 | [Gas Stations](Arrays/gas_stations.py) | [solution](Arrays/gas_stations.py) |
 | 79 | [Sequential Digits](Arrays/sequential_digits.py) | [solution](Arrays/sequential_digits.py) |
 | 80 | [Detect Capital](Arrays/detect_capital.py) | [solution](Arrays/detect_capital.py) |
+| 81 | [Valid Mountain Array](Arrays/valid_mountain_array.py) | [solution](Arrays/valid_mountain_array.py) |
 
 
 ## Link List
