@@ -147,6 +147,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 37  | [Maximum Difference Between Node and Ancestor ](Trees2/maximum_difference_ancestor.py) | [solution](Trees2/maximum_difference_ancestor.py) |
 | 38  | [Sum of Root To Leaf Binary Numbers ](Trees2/sum_root_to_leaf_binary_numbers.py) | [solution](Trees2/sum_root_to_leaf_binary_numbers.py) |
 | 39  | [ Insert into a Binary Search Tree ](Trees2/insert_into_BST.py) | [solution](Trees2/insert_into_BST.py) |
+| 39  | [ All Elements in Two Binary Search Trees ](Trees2/all_elements_in_2_BT.py) | [solution](Trees2/all_elements_in_2_BT.py) |
 
 
 
