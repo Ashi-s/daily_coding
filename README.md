@@ -237,6 +237,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 80 | [Detect Capital](Arrays/detect_capital.py) | [solution](Arrays/detect_capital.py) |
 | 81 | [Valid Mountain Array](Arrays/valid_mountain_array.py) | [solution](Arrays/valid_mountain_array.py) |
 | 82 | [Find All Anagrams in a String](Arrays/find_all_anagrams_in_string.py) | [solution](Arrays/find_all_anagrams_in_string.py) |
+| 83 | [4 Sum II](Arrays/4_sum_II.py) | [solution](Arrays/4_sum_II.py) |
 
 
 ## Link List
@@ -255,6 +256,9 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 11 | [Linked List Random Node](LinkList/random_node.py) | [solution](LinkList/random_node.py) |
 | 12 | [Linked List Cycle](LinkList/link_list_cycle.py) | [solution](LinkList/link_list_cycle.py) |
 | 13 | [Linked List Cycle II](LinkList/link_list_cycle_II.py) | [solution](LinkList/link_list_cycle_II.py) |
+| 14 | [Add Two Numbers LL](LinkList/add_two_number.py) | [solution](LinkList/add_two_number.py) |
+| 15 | [Add Two Numbers II LL](LinkList/add_two_number_II.py) | [solution](LinkList/add_two_number_II.py) |
+| 16 | [Merge Two Sorted Lists](LinkList/merge_sorted_list.py) | [solution](LinkList/merge_sorted_list.py) |
 
 ## Graph
 |  # | Description               | Solution |
