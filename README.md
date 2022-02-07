@@ -240,6 +240,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 83 | [4 Sum II](Arrays/4_sum_II.py) | [solution](Arrays/4_sum_II.py) |
 | 84 | [Contiguous Array](Arrays/contigous_array.py) | [solution](Arrays/contigous_array.py) |
 | 85 | [Remove Duplicates from Sorted Array II](Arrays/remove_duplicates_II.py) | [solution](Arrays/remove_duplicates_II.py) |
+| 86 | [Find the Difference](Arrays/find_the_difference.py) | [solution](Arrays/find_the_difference.py) |
 
 
 ## Link List
@@ -261,6 +262,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 14 | [Add Two Numbers LL](LinkList/add_two_number.py) | [solution](LinkList/add_two_number.py) |
 | 15 | [Add Two Numbers II LL](LinkList/add_two_number_II.py) | [solution](LinkList/add_two_number_II.py) |
 | 16 | [Merge Two Sorted Lists](LinkList/merge_sorted_list.py) | [solution](LinkList/merge_sorted_list.py) |
+| 17 | [Merge k Sorted Lists](LinkList/merge_sorted_list_II.py) | [solution](LinkList/merge_sorted_list_II.py) |
 
 ## Graph
 |  # | Description               | Solution |
