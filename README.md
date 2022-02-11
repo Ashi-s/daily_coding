@@ -243,6 +243,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 86 | [Find the Difference](Arrays/find_the_difference.py) | [solution](Arrays/find_the_difference.py) |
 | 87 | [Add Digits](Arrays/add_digits.py) | [solution](Arrays/add_digits.py) |
 | 88 | [K-diff Pairs in an Array](Arrays/k_diff_pairs.py) | [solution](Arrays/k_diff_pairs.py) |
+| 89 | [Permutation in Strings](Arrays/permutation_in_string.py) | [solution](Arrays/permutation_in_string.py) |
 
 
 ## Link List
