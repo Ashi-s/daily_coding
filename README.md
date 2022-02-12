@@ -104,6 +104,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 50  | [Jump Game IV](Recursion/jump_game_IV.py) | [solution](Recursion/jump_game_IV.py) |
 | 51  | [Stone Game IV](Recursion/stone_game_IV.py) | [solution](Recursion/stone_game_IV.py) |
 | 52  | [Predict the winner](Recursion/predict_the_winner.py) | [solution](Recursion/predict_the_winner.py) |
+| 53  | [Word Ladder](Recursion/word_ladder.py) | [solution](Recursion/word_ladder.py) |
 
 ## Trees
 |  # | Description               | Solution |
