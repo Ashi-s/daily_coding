@@ -245,6 +245,10 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 87 | [Add Digits](Arrays/add_digits.py) | [solution](Arrays/add_digits.py) |
 | 88 | [K-diff Pairs in an Array](Arrays/k_diff_pairs.py) | [solution](Arrays/k_diff_pairs.py) |
 | 89 | [Permutation in Strings](Arrays/permutation_in_string.py) | [solution](Arrays/permutation_in_string.py) |
+| 90 | [Continuous Subarray Sum](Arrays/continuos_subarray_sum.py) | [solution](Arrays/continuos_subarray_sum.py) |
+| 91 | [Subarray Sums Divisible by K](Arrays/subarray_sum_divisible_k.py) | [solution](Arrays/subarray_sum_divisible_k.py) |
+| 92 | [Minimum Size Subarray Sum](Arrays/minimum_size_subarray_sum.py) | [solution](Arrays/minimum_size_subarray_sum.py) |
+| 93 | [Minimum Operations to Reduce X to Zero](Arrays/minimum_operations_to_zero.py) | [solution](Arrays/minimum_operations_to_zero.py) |
 
 
 ## Link List
