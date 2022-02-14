@@ -249,6 +249,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 91 | [Subarray Sums Divisible by K](Arrays/subarray_sum_divisible_k.py) | [solution](Arrays/subarray_sum_divisible_k.py) |
 | 92 | [Minimum Size Subarray Sum](Arrays/minimum_size_subarray_sum.py) | [solution](Arrays/minimum_size_subarray_sum.py) |
 | 93 | [Minimum Operations to Reduce X to Zero](Arrays/minimum_operations_to_zero.py) | [solution](Arrays/minimum_operations_to_zero.py) |
+| 94 | [K Radius Subarray Averages](Arrays/k_radius_subarray_average.py) | [solution](Arrays/k_radius_subarray_average.py) |
+| 95 | [Robot Return to Origin](Arrays/robot_return_to_origin.py) | [solution](Arrays/robot_return_to_origin.py) |
 
 
 ## Link List
