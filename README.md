@@ -251,7 +251,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 93 | [Minimum Operations to Reduce X to Zero](Arrays/minimum_operations_to_zero.py) | [solution](Arrays/minimum_operations_to_zero.py) |
 | 94 | [K Radius Subarray Averages](Arrays/k_radius_subarray_average.py) | [solution](Arrays/k_radius_subarray_average.py) |
 | 95 | [Robot Return to Origin](Arrays/robot_return_to_origin.py) | [solution](Arrays/robot_return_to_origin.py) |
-| 95 | [Make Two Arrays Equal by Reversing Sub-arrays](Arrays/make_two_arrays_equal.py) | [solution](Arrays/make_two_arrays_equal.py) |
+| 96 | [Make Two Arrays Equal by Reversing Sub-arrays](Arrays/make_two_arrays_equal.py) | [solution](Arrays/make_two_arrays_equal.py) |
+| 97 | [Contiguous Subarray](Arrays/contigous_subarray.py) | [solution](Arrays/contigous_subarray.py) |
 
 
 ## Link List
