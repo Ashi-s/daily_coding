@@ -253,6 +253,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 95 | [Robot Return to Origin](Arrays/robot_return_to_origin.py) | [solution](Arrays/robot_return_to_origin.py) |
 | 96 | [Make Two Arrays Equal by Reversing Sub-arrays](Arrays/make_two_arrays_equal.py) | [solution](Arrays/make_two_arrays_equal.py) |
 | 97 | [Contiguous Subarray](Arrays/contigous_subarray.py) | [solution](Arrays/contigous_subarray.py) |
+| 98 | [Rotational Cipher](Arrays/rotational_cipher.py) | [solution](Arrays/rotational_cipher.py) |
 
 
 ## Link List
