@@ -106,6 +106,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 52  | [Predict the winner](Recursion/predict_the_winner.py) | [solution](Recursion/predict_the_winner.py) |
 | 53  | [Word Ladder](Recursion/word_ladder.py) | [solution](Recursion/word_ladder.py) |
 | 54  | [Remove k digits](Recursion/remove_k_digits.py) | [solution](Recursion/remove_k_digits.py) |
+| 55  | [Encrypted Words](Recursion/encrypted_words.py) | [solution](Recursion/encrypted_words.py) |
+| 56  | [Change In Foreign Currency](Recursion/change_in_foreign_currency.py) | [solution](Recursion/change_in_foreign_currency.py) |
 
 ## Trees
 |  # | Description               | Solution |
@@ -149,7 +151,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 37  | [Maximum Difference Between Node and Ancestor ](Trees2/maximum_difference_ancestor.py) | [solution](Trees2/maximum_difference_ancestor.py) |
 | 38  | [Sum of Root To Leaf Binary Numbers ](Trees2/sum_root_to_leaf_binary_numbers.py) | [solution](Trees2/sum_root_to_leaf_binary_numbers.py) |
 | 39  | [ Insert into a Binary Search Tree ](Trees2/insert_into_BST.py) | [solution](Trees2/insert_into_BST.py) |
-| 39  | [ All Elements in Two Binary Search Trees ](Trees2/all_elements_in_2_BT.py) | [solution](Trees2/all_elements_in_2_BT.py) |
+| 40  | [ All Elements in Two Binary Search Trees ](Trees2/all_elements_in_2_BT.py) | [solution](Trees2/all_elements_in_2_BT.py) |
+| 41  | [ Node in Subtree ](Trees2/node_in_subtree.py) | [solution](Trees2/node_in_subtree.py) |
 
 
 
@@ -255,6 +258,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 96 | [Make Two Arrays Equal by Reversing Sub-arrays](Arrays/make_two_arrays_equal.py) | [solution](Arrays/make_two_arrays_equal.py) |
 | 97 | [Contiguous Subarray](Arrays/contigous_subarray.py) | [solution](Arrays/contigous_subarray.py) |
 | 98 | [Rotational Cipher](Arrays/rotational_cipher.py) | [solution](Arrays/rotational_cipher.py) |
+| 99 | [Minimize Deviation in Array](Arrays/minimize_deviation_in_array.py) | [solution](Arrays/minimize_deviation_in_array.py) |
 
 
 ## Link List
