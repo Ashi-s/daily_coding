@@ -259,6 +259,10 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 97 | [Contiguous Subarray](Arrays/contigous_subarray.py) | [solution](Arrays/contigous_subarray.py) |
 | 98 | [Rotational Cipher](Arrays/rotational_cipher.py) | [solution](Arrays/rotational_cipher.py) |
 | 99 | [Minimize Deviation in Array](Arrays/minimize_deviation_in_array.py) | [solution](Arrays/minimize_deviation_in_array.py) |
+| 100 | [Minimize Permutation](Arrays/minimizing_permutation.py) | [solution](Arrays/minimizing_permutation.py) |
+| 101 | [Minimum swaps to sort array](Arrays/minimum_swaps.py) | [solution](Arrays/minimum_swaps.py) |
+| 102 | [Slow Sums](Arrays/slow_sums.py) | [solution](Arrays/slow_sums.py) |
+| 103 | [Element Swapping](Arrays/element_swapping.py) | [solution](Arrays/element_swapping.py) |
 
 
 ## Link List
