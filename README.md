@@ -263,6 +263,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 101 | [Minimum swaps to sort array](Arrays/minimum_swaps.py) | [solution](Arrays/minimum_swaps.py) |
 | 102 | [Slow Sums](Arrays/slow_sums.py) | [solution](Arrays/slow_sums.py) |
 | 103 | [Element Swapping](Arrays/element_swapping.py) | [solution](Arrays/element_swapping.py) |
+| 104 | [Seating Arrangements](Arrays/seating_arrangements.py) | [solution](Arrays/seating_arrangements.py) |
+| 105 | [Revenue Milestones](Arrays/revenue_milestones.py) | [solution](Arrays/revenue_milestones.py) |
 
 
 ## Link List
