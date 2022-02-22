@@ -265,6 +265,10 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 103 | [Element Swapping](Arrays/element_swapping.py) | [solution](Arrays/element_swapping.py) |
 | 104 | [Seating Arrangements](Arrays/seating_arrangements.py) | [solution](Arrays/seating_arrangements.py) |
 | 105 | [Revenue Milestones](Arrays/revenue_milestones.py) | [solution](Arrays/revenue_milestones.py) |
+| 106 | [Billion Users](Arrays/one_billion_userss.py) | [solution](Arrays/one_billion_userss.py) |
+| 107 | [Balanced Split](Arrays/balanced_split.py) | [solution](Arrays/balanced_split.py) |
+| 108 | [Counting Triangles](Arrays/counting_triangles.py) | [solution](Arrays/counting_triangles.py) |
+| 109 | [Excel Sheet Column Number](Arrays/excel_sheet_column_number.py) | [solution](Arrays/excel_sheet_column_number.py) |
 
 
 ## Link List
