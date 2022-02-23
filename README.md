@@ -269,6 +269,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 107 | [Balanced Split](Arrays/balanced_split.py) | [solution](Arrays/balanced_split.py) |
 | 108 | [Counting Triangles](Arrays/counting_triangles.py) | [solution](Arrays/counting_triangles.py) |
 | 109 | [Excel Sheet Column Number](Arrays/excel_sheet_column_number.py) | [solution](Arrays/excel_sheet_column_number.py) |
+| 110 | [Total Cache Optimization](Arrays/total_cache_optimization.py) | [solution](Arrays/total_cache_optimization.py) |
 
 
 ## Link List
@@ -291,6 +292,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 15 | [Add Two Numbers II LL](LinkList/add_two_number_II.py) | [solution](LinkList/add_two_number_II.py) |
 | 16 | [Merge Two Sorted Lists](LinkList/merge_sorted_list.py) | [solution](LinkList/merge_sorted_list.py) |
 | 17 | [Merge k Sorted Lists](LinkList/merge_sorted_list_II.py) | [solution](LinkList/merge_sorted_list_II.py) |
+| 18 | [Maximum Sum Of First And last](LinkList/maximum_sum_of_first_and_last.py) | [solution](LinkList/maximum_sum_of_first_and_last.py) |
 
 ## Graph
 |  # | Description               | Solution |
