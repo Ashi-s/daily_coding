@@ -293,6 +293,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 16 | [Merge Two Sorted Lists](LinkList/merge_sorted_list.py) | [solution](LinkList/merge_sorted_list.py) |
 | 17 | [Merge k Sorted Lists](LinkList/merge_sorted_list_II.py) | [solution](LinkList/merge_sorted_list_II.py) |
 | 18 | [Maximum Sum Of First And last](LinkList/maximum_sum_of_first_and_last.py) | [solution](LinkList/maximum_sum_of_first_and_last.py) |
+| 19 | [Sort List](LinkList/sort_list.py) | [solution](LinkList/sort_list.py) |
 
 ## Graph
 |  # | Description               | Solution |
