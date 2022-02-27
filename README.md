@@ -153,6 +153,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 39  | [ Insert into a Binary Search Tree ](Trees2/insert_into_BST.py) | [solution](Trees2/insert_into_BST.py) |
 | 40  | [ All Elements in Two Binary Search Trees ](Trees2/all_elements_in_2_BT.py) | [solution](Trees2/all_elements_in_2_BT.py) |
 | 41  | [ Node in Subtree ](Trees2/node_in_subtree.py) | [solution](Trees2/node_in_subtree.py) |
+| 42  | [ Maximum width of Binary Tree ](Trees2/max_width_bt.py) | [solution](Trees2/max_width_bt.py) |
 
 
 
@@ -270,6 +271,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 108 | [Counting Triangles](Arrays/counting_triangles.py) | [solution](Arrays/counting_triangles.py) |
 | 109 | [Excel Sheet Column Number](Arrays/excel_sheet_column_number.py) | [solution](Arrays/excel_sheet_column_number.py) |
 | 110 | [Total Cache Optimization](Arrays/total_cache_optimization.py) | [solution](Arrays/total_cache_optimization.py) |
+| 111 | [Compare Version Numbers](Arrays/compare_version_number.py) | [solution](Arrays/compare_version_number.py) |
 
 
 ## Link List
