@@ -272,6 +272,9 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 109 | [Excel Sheet Column Number](Arrays/excel_sheet_column_number.py) | [solution](Arrays/excel_sheet_column_number.py) |
 | 110 | [Total Cache Optimization](Arrays/total_cache_optimization.py) | [solution](Arrays/total_cache_optimization.py) |
 | 111 | [Compare Version Numbers](Arrays/compare_version_number.py) | [solution](Arrays/compare_version_number.py) |
+| 112 | [Summary ranges](Arrays/summary_ranges.py) | [solution](Arrays/summary_ranges.py) |
+| 113 | [Counting Bits](Arrays/counting_bits.py) | [solution](Arrays/counting_bits.py) |
+| 114 | [Largest Triplet Product](Arrays/largest_triplet_product.py) | [solution](Arrays/largest_triplet_product.py) |
 
 
 ## Link List
@@ -311,6 +314,11 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 1  | [Minimum parenthesis remove to make it valid](stacks_and_queues/86_minimum_parenthesis_remove.py) | [solution](stacks_and_queues/86_minimum_parenthesis_remove.py) |
 | 2  | [Min Stack](stacks_and_queues/min_stack.py) | [solution](stacks_and_queues/min_stack.py) |
 | 2  | [Decode String](stacks_and_queues/decode_string.py) | [solution](stacks_and_queues/decode_string.py) |
+
+## Heap
+|  # | Description               | Solution |
+|----|---------------------------|---------------------------|
+| 1  | [Magical Candy Bag](Heap/magical_candy_bags.py) | [solution](Heap/magical_candy_bags.py) |
 ## Bit Manipulation
 |  # | Description               | Solution |
 |----|---------------------------|---------------------------|

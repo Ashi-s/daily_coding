@@ -36,22 +36,20 @@ def summaryRanges(nums):
   res = []
   count = 0
   while end < n:
-    # end = start+1
-    if end < n:
-      if nums[end] == nums[end-1] + 1:
-        count += 1
-        end += 1
+    if nums[end] == nums[end-1] + 1:
+      count += 1
+      end += 1
+    else:
+      if count > 0:
+        res.append(str(nums[start]) + '->' + str(nums[end-1]))
+        start = end
+        end = start+1
+        count = 0
       else:
-        if count > 0:
-          res.append(str(nums[start]) + '->' + str(nums[end-1]))
-          start = end
-          end = start+1
-          count = 0
-        else:
-          res.append(str(nums[start]))
-          start += 1
-          end = start + 1
-          count = 0
+        res.append(str(nums[start]))
+        start += 1
+        end = start + 1
+        count = 0
   
   if count > 0:
     res.append(str(nums[start]) + '->' + str(nums[end-1]))
