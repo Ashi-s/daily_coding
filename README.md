@@ -275,6 +275,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 112 | [Summary ranges](Arrays/summary_ranges.py) | [solution](Arrays/summary_ranges.py) |
 | 113 | [Counting Bits](Arrays/counting_bits.py) | [solution](Arrays/counting_bits.py) |
 | 114 | [Largest Triplet Product](Arrays/largest_triplet_product.py) | [solution](Arrays/largest_triplet_product.py) |
+| 115 | [Is Subsequence](Arrays/is_subsequence.py) | [solution](Arrays/is_subsequence.py) |
 
 
 ## Link List
