@@ -5,7 +5,8 @@
 # the next revision being revision 1, and so on. For example 2.5.33 and 0.1 are valid version numbers.
 
 # To compare version numbers, compare their revisions in left-to-right order. Revisions are compared using their integer value ignoring any leading zeros. 
-# This means that revisions 1 and 001 are considered equal. If a version number does not specify a revision at an index, then treat the revision as 0. For example, version 1.0 is less than version 1.1 because their revision 0s are the same, but their revision 1s are 0 and 1 respectively, and 0 < 1.
+# This means that revisions 1 and 001 are considered equal. If a version number does not specify a revision at an index, then treat the revision as 0. 
+# For example, version 1.0 is less than version 1.1 because their revision 0s are the same, but their revision 1s are 0 and 1 respectively, and 0 < 1.
 
 # Return the following:
 
@@ -33,10 +34,14 @@
 def compareVersion(version1, version2):
   v1 = version1.split('.')
   v2 = version2.split('.')
-  print(v1, v2)
-  if len(v1) != len(v2): return 0
   
-  
+  n = max(len(v1), len(v2))
+  while len(v1) < n:
+    v1.append(0)
+    
+  while len(v2) < n:
+    v2.append(0)
+    
   for i, j in zip(v1, v2):
     if int(i) < int(j):
       return -1
@@ -44,3 +49,4 @@ def compareVersion(version1, version2):
       return 1
   
   return 0
+print(compareVersion('1.0.1', '1'))
