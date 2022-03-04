@@ -108,6 +108,10 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 54  | [Remove k digits](Recursion/remove_k_digits.py) | [solution](Recursion/remove_k_digits.py) |
 | 55  | [Encrypted Words](Recursion/encrypted_words.py) | [solution](Recursion/encrypted_words.py) |
 | 56  | [Change In Foreign Currency](Recursion/change_in_foreign_currency.py) | [solution](Recursion/change_in_foreign_currency.py) |
+| 57  | [Minimum Operations](Recursion/minimum_operations.py) | [solution](Recursion/minimum_operations.py) |
+| 58  | [Max Length Chain](Recursion/max_length_chain.py) | [solution](Recursion/max_length_chain.py) |
+| 59  | [Longest Common Subsequence](Recursion/longest_common_subsequence.py) | [solution](Recursion/longest_common_subsequence.py) |
+| 60  | [Longest Common Substring](Recursion/longest_common_substring.py) | [solution](Recursion/longest_common_substring.py) |
 
 ## Trees
 |  # | Description               | Solution |
@@ -276,6 +280,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 113 | [Counting Bits](Arrays/counting_bits.py) | [solution](Arrays/counting_bits.py) |
 | 114 | [Largest Triplet Product](Arrays/largest_triplet_product.py) | [solution](Arrays/largest_triplet_product.py) |
 | 115 | [Is Subsequence](Arrays/is_subsequence.py) | [solution](Arrays/is_subsequence.py) |
+| 116 | [Matching Pairs](Arrays/matching_pairs.py) | [solution](Arrays/matching_pairs.py) |
+| 117 | [Champagne Tower](Arrays/champagne_tower.py) | [solution](Arrays/champagne_tower.py) |
 
 
 ## Link List
