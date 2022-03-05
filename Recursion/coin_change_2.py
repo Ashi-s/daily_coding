@@ -30,4 +30,41 @@ def change( amount, coins):
   return len(dp[-1])
 
 print(change(amount = 5, coins = [1,2,5]))
+
+#M2 Recursion
+def count(S, m, n): 
+  # code here 
+  def helper(idx, curr):
+    nonlocal count
+    if curr == n:
+        count += 1
+        return
+    if idx >= m:
+        return
+    if curr > n:
+        return
+    
+    helper(idx, curr+S[idx])
+    helper(idx+1, curr)
+  
+  count = 0
+  helper(0, 0)
+  return count
+
+# Input:
+# n = 4 , m = 3
+# S[] = {1,2,3}
+# Output: 4
+# Explanation: Four Possible ways are:
+# {1,1,1,1},{1,1,2},{2,2},{1,3}.
+
+#M 3
+
+def coinchange(S, m, n):
+  dp = [0 for _ in range(n+1)]
+  dp[0] = 1
+  for c in S:
+      for i in range(c, n+1):
+          dp[i] += dp[i-c]
+  return dp[-1]
         
