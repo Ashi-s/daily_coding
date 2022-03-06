@@ -112,6 +112,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 58  | [Max Length Chain](Recursion/max_length_chain.py) | [solution](Recursion/max_length_chain.py) |
 | 59  | [Longest Common Subsequence](Recursion/longest_common_subsequence.py) | [solution](Recursion/longest_common_subsequence.py) |
 | 60  | [Longest Common Substring](Recursion/longest_common_substring.py) | [solution](Recursion/longest_common_substring.py) |
+| 60  | [Jump Game II](Recursion/jump_game_II.py) | [solution](Recursion/jump_game_II.py) |
 
 ## Trees
 |  # | Description               | Solution |
@@ -151,13 +152,16 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 33  | [Binary Tree Pruning ](Trees2/tree_pruning.py) | [solution](Trees2/tree_pruning.py) |
 | 34  | [Binary Tree Tilt ](Trees2/binary_tree_tilt.py) | [solution](Trees2/binary_tree_tilt.py) |
 | 35  | [Range Sum of BST ](Trees2/range_sum_of_BST.py) | [solution](Trees2/range_sum_of_BST.py) |
-| 36  | [Populating Next Right Pointers in Each Node ](Trees2/populating_next_right_pointers.py) | [solution](Trees2/populating_next_right_pointers.py) |
+| 36  | [Populating Next Right Pointers in Each Node ](Trees2/populating_next_right_pointers.py) | [solution](Trees2/populating_next_right_pointers.py) | 
 | 37  | [Maximum Difference Between Node and Ancestor ](Trees2/maximum_difference_ancestor.py) | [solution](Trees2/maximum_difference_ancestor.py) |
 | 38  | [Sum of Root To Leaf Binary Numbers ](Trees2/sum_root_to_leaf_binary_numbers.py) | [solution](Trees2/sum_root_to_leaf_binary_numbers.py) |
 | 39  | [ Insert into a Binary Search Tree ](Trees2/insert_into_BST.py) | [solution](Trees2/insert_into_BST.py) |
 | 40  | [ All Elements in Two Binary Search Trees ](Trees2/all_elements_in_2_BT.py) | [solution](Trees2/all_elements_in_2_BT.py) |
 | 41  | [ Node in Subtree ](Trees2/node_in_subtree.py) | [solution](Trees2/node_in_subtree.py) |
 | 42  | [ Maximum width of Binary Tree ](Trees2/max_width_bt.py) | [solution](Trees2/max_width_bt.py) |
+| 43  | [ Bottom View of BT ](Trees2/bottom_view_bt.py) | [solution](Trees2/bottom_view_bt.py) |
+| 44  | [ Vertical Traversal BT ](Trees2/vertical_traversal.py) | [solution](Trees2/vertical_traversal.py) |
+| 45  | [ Find Bottom Left Tree Value ](Trees2/bottom_left_value.py) | [solution](Trees2/bottom_left_value.py) |
 
 
 
@@ -282,6 +286,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 115 | [Is Subsequence](Arrays/is_subsequence.py) | [solution](Arrays/is_subsequence.py) |
 | 116 | [Matching Pairs](Arrays/matching_pairs.py) | [solution](Arrays/matching_pairs.py) |
 | 117 | [Champagne Tower](Arrays/champagne_tower.py) | [solution](Arrays/champagne_tower.py) |
+| 118 | [Earn and Delete](Arrays/earn_and_delete.py) | [solution](Arrays/earn_and_delete.py) |
+| 119 | [Count All Valid Pickup and Delivery Options](Arrays/valid_pickups.py) | [solution](Arrays/valid_pickups.py) |
 
 
 ## Link List
