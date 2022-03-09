@@ -162,6 +162,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 43  | [ Bottom View of BT ](Trees2/bottom_view_bt.py) | [solution](Trees2/bottom_view_bt.py) |
 | 44  | [ Vertical Traversal BT ](Trees2/vertical_traversal.py) | [solution](Trees2/vertical_traversal.py) |
 | 45  | [ Find Bottom Left Tree Value ](Trees2/bottom_left_value.py) | [solution](Trees2/bottom_left_value.py) |
+| 45  | [ Lowest Common Ancestor of a Binary Tree ](Trees2/lowest_common_ancestor.py) | [solution](Trees2/lowest_common_ancestor.py) |
 
 
 
@@ -312,6 +313,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 17 | [Merge k Sorted Lists](LinkList/merge_sorted_list_II.py) | [solution](LinkList/merge_sorted_list_II.py) |
 | 18 | [Maximum Sum Of First And last](LinkList/maximum_sum_of_first_and_last.py) | [solution](LinkList/maximum_sum_of_first_and_last.py) |
 | 19 | [Sort List](LinkList/sort_list.py) | [solution](LinkList/sort_list.py) |
+| 20 | [Remove Duplicates from Sorted List II](LinkList/remove_duplicates_II.py) | [solution](LinkList/remove_duplicates_II.py) |
 
 ## Graph
 |  # | Description               | Solution |
@@ -320,6 +322,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 2  | [Connected components undirected graph ](Trees2/connected_component_undirected_graph.py) | [solution](Trees2/connected_component_undirected_graph.py) |
 | 3  | [All Paths From Source to Target ](Graph/all_paths_source_to_target.py) | [solution](Graph/all_paths_source_to_target.py) |
 | 4  | [Course Schedule II ](Graph/course_schedule_II.py) | [solution](Graph/course_schedule_II.py) |
+| 5  | [Find whether path exists ](Graph/path_exists.py) | [solution](Graph/path_exists.py) |
+| 6  | [Shortest Path In Binary Matrix ](Graph/shortest_path_matrix.py) | [solution](Graph/shortest_path_matrix.py) |
 
 ## Stack and Queues
 |  # | Description               | Solution |
