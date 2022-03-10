@@ -289,6 +289,9 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 117 | [Champagne Tower](Arrays/champagne_tower.py) | [solution](Arrays/champagne_tower.py) |
 | 118 | [Earn and Delete](Arrays/earn_and_delete.py) | [solution](Arrays/earn_and_delete.py) |
 | 119 | [Count All Valid Pickup and Delivery Options](Arrays/valid_pickups.py) | [solution](Arrays/valid_pickups.py) |
+| 120 | [Merge without extra Space](Arrays/merge_without_extra_space.py) | [solution](Arrays/merge_without_extra_space.py) |
+| 121 | [Sort Array By Parity](Arrays/sort_array_by_parity.py) | [solution](Arrays/sort_array_by_parity.py) |
+| 122 | [Trapping Rain Water](Arrays/trapping_rain_water.py) | [solution](Arrays/trapping_rain_water.py) |
 
 
 ## Link List
@@ -330,7 +333,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 |----|---------------------------|---------------------------|
 | 1  | [Minimum parenthesis remove to make it valid](stacks_and_queues/86_minimum_parenthesis_remove.py) | [solution](stacks_and_queues/86_minimum_parenthesis_remove.py) |
 | 2  | [Min Stack](stacks_and_queues/min_stack.py) | [solution](stacks_and_queues/min_stack.py) |
-| 2  | [Decode String](stacks_and_queues/decode_string.py) | [solution](stacks_and_queues/decode_string.py) |
+| 3  | [Decode String](stacks_and_queues/decode_string.py) | [solution](stacks_and_queues/decode_string.py) |
+| 4  | [First non-repeating character in a stream](stacks_and_queues/first_non_repeating_stream.py) | [solution](stacks_and_queues/first_non_repeating_stream.py) |
 
 ## Heap
 |  # | Description               | Solution |
