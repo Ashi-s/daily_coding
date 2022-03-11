@@ -234,7 +234,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 62 | [Minimum Absolute Difference](Arrays/minimum_absolute_difference.py) | [solution](Arrays/minimum_absolute_difference.py) |
 | 63 | [Power of Two](Arrays/power_of_2.py) | [solution](Arrays/power_of_2.py) |
 | 64 | [Remove Covered Intervals](Arrays/remove_covered_intervals.py) | [solution](Arrays/remove_covered_intervals.py) |
-| 65 | [Remove Covered Intervals](Arrays/k_closest_points_to_origin.py) | [solution](Arrays/k_closest_points_to_origin.py) |
+| 65 | [K Closest Point to Origin](Arrays/k_closest_points_to_origin.py) | [solution](Arrays/k_closest_points_to_origin.py) |
 | 66 | [Number Complement](Arrays/number_complement.py) | [solution](Arrays/number_complement.py) |
 | 67 | [Best Sightseeing Pair](Arrays/best_sightseeing_pair.py) | [solution](Arrays/best_sightseeing_pair.py) |
 | 68 | [Smallest Integer Divisible by K](Arrays/smallest_divisible_by_k.py) | [solution](Arrays/smallest_divisible_by_k.py) |
@@ -317,6 +317,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 18 | [Maximum Sum Of First And last](LinkList/maximum_sum_of_first_and_last.py) | [solution](LinkList/maximum_sum_of_first_and_last.py) |
 | 19 | [Sort List](LinkList/sort_list.py) | [solution](LinkList/sort_list.py) |
 | 20 | [Remove Duplicates from Sorted List II](LinkList/remove_duplicates_II.py) | [solution](LinkList/remove_duplicates_II.py) |
+| 21 | [Rotate List](LinkList/rotate_list.py) | [solution](LinkList/rotate_list.py) |
 
 ## Graph
 |  # | Description               | Solution |
