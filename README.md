@@ -112,7 +112,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 58  | [Max Length Chain](Recursion/max_length_chain.py) | [solution](Recursion/max_length_chain.py) |
 | 59  | [Longest Common Subsequence](Recursion/longest_common_subsequence.py) | [solution](Recursion/longest_common_subsequence.py) |
 | 60  | [Longest Common Substring](Recursion/longest_common_substring.py) | [solution](Recursion/longest_common_substring.py) |
-| 60  | [Jump Game II](Recursion/jump_game_II.py) | [solution](Recursion/jump_game_II.py) |
+| 61  | [Jump Game II](Recursion/jump_game_II.py) | [solution](Recursion/jump_game_II.py) |
+| 62  | [Number of Dice Rolls With Target Sum](Recursion/dice_roll_to_target.py) | [solution](Recursion/dice_roll_to_target.py) |
 
 ## Trees
 |  # | Description               | Solution |
@@ -202,7 +203,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 30  | [Sort Array Parity II](Arrays/sort_array_parity_II.py) | [solution](Arrays/sort_array_parity_II.py) |
 | 31  | [Island Perimeter](Arrays/island_perimeter.py) | [solution](Arrays/island_perimeter.py) |
 | 32  | [Find All Duplicates in Array](Arrays/find_all_duplicates_in_array.py) | [solution](Arrays/find_all_duplicates_in_array.py) |
-| 33  | [Longest Consecutive Sequence](Arrays/longest_consecutive_sequence.py) | [solution](Arrays/longest_consecutive_sequence.py) |
+| 33  | [Longest Consecutive Sequence](Arrays/longest_consecutive_sequence.py) | [solution](Arrays/longest_consecutive_sequence.py) | 
 | 34  | [Count Primes](Arrays/count_primes.py) | [solution](Arrays/count_primes.py) |
 | 35  | [Minimum steps to cover an infinite grid](Arrays/minimum_step_cover_infinite_grid.py) | [solution](Arrays/minimum_step_cover_infinite_grid.py) |
 | 36 | [Return two primes who's sum equals the number](Arrays/two_prime_equal_to_sum.py) | [solution](Arrays/two_prime_equal_to_sum.py) |
@@ -292,6 +293,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 120 | [Merge without extra Space](Arrays/merge_without_extra_space.py) | [solution](Arrays/merge_without_extra_space.py) |
 | 121 | [Sort Array By Parity](Arrays/sort_array_by_parity.py) | [solution](Arrays/sort_array_by_parity.py) |
 | 122 | [Trapping Rain Water](Arrays/trapping_rain_water.py) | [solution](Arrays/trapping_rain_water.py) |
+| 124 | [Snapshot Array](Arrays/snapshot_array.py) | [solution](Arrays/snapshot_array.py) |
 
 
 ## Link List
@@ -337,6 +339,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 2  | [Min Stack](stacks_and_queues/min_stack.py) | [solution](stacks_and_queues/min_stack.py) |
 | 3  | [Decode String](stacks_and_queues/decode_string.py) | [solution](stacks_and_queues/decode_string.py) |
 | 4  | [First non-repeating character in a stream](stacks_and_queues/first_non_repeating_stream.py) | [solution](stacks_and_queues/first_non_repeating_stream.py) |
+| 5  | [Remove All Adjacent Duplicates in String II](stacks_and_queues/remove_adjacent_duplicates_II.py) | [solution](stacks_and_queues/remove_adjacent_duplicates_II.py) |
 
 ## Heap
 |  # | Description               | Solution |
