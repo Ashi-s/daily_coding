@@ -114,6 +114,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 60  | [Longest Common Substring](Recursion/longest_common_substring.py) | [solution](Recursion/longest_common_substring.py) |
 | 61  | [Jump Game II](Recursion/jump_game_II.py) | [solution](Recursion/jump_game_II.py) |
 | 62  | [Number of Dice Rolls With Target Sum](Recursion/dice_roll_to_target.py) | [solution](Recursion/dice_roll_to_target.py) |
+| 63  | [Merge Sort](Recursion/merge_sort.py) | [solution](Recursion/merge_sort.py) |
 
 ## Trees
 |  # | Description               | Solution |
@@ -293,7 +294,12 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 120 | [Merge without extra Space](Arrays/merge_without_extra_space.py) | [solution](Arrays/merge_without_extra_space.py) |
 | 121 | [Sort Array By Parity](Arrays/sort_array_by_parity.py) | [solution](Arrays/sort_array_by_parity.py) |
 | 122 | [Trapping Rain Water](Arrays/trapping_rain_water.py) | [solution](Arrays/trapping_rain_water.py) |
-| 124 | [Snapshot Array](Arrays/snapshot_array.py) | [solution](Arrays/snapshot_array.py) |
+| 123 | [Snapshot Array](Arrays/snapshot_array.py) | [solution](Arrays/snapshot_array.py) |
+| 124 | [Count Servers that Communicate](Arrays/count_servers.py) | [solution](Arrays/count_servers.py) |
+| 125 | [Find the Duplicate Number](Arrays/find_duplicate.py) | [solution](Arrays/find_duplicate.py) |
+| 126 | [Spiral matrix II](Arrays/spiral_matrix_II.py) | [solution](Arrays/spiral_matrix_II.py) |
+| 127 | [Diagonal Traverse](Arrays/diagonal_traverse.py) | [solution](Arrays/diagonal_traverse.py) |
+| 128 | [Simplify Paths](Arrays/simplify_paths.py) | [solution](Arrays/simplify_paths.py) |
 
 
 ## Link List
