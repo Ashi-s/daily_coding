@@ -300,6 +300,9 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 126 | [Spiral matrix II](Arrays/spiral_matrix_II.py) | [solution](Arrays/spiral_matrix_II.py) |
 | 127 | [Diagonal Traverse](Arrays/diagonal_traverse.py) | [solution](Arrays/diagonal_traverse.py) |
 | 128 | [Simplify Paths](Arrays/simplify_paths.py) | [solution](Arrays/simplify_paths.py) |
+| 129 | [Minimum Remove to Make Valid Parentheses](Arrays/minimum_remove_valid_parenthesis.py) | [solution](Arrays/minimum_remove_valid_parenthesis.py) |
+| 130 | [English word to Integer](Arrays/english_word_to_integer.py) | [solution](Arrays/english_word_to_integer.py) |
+| 129 | [Integer To English Word](Arrays/integer_to_english_word.py) | [solution](Arrays/integer_to_english_word.py) |
 
 
 ## Link List
@@ -337,6 +340,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 4  | [Course Schedule II ](Graph/course_schedule_II.py) | [solution](Graph/course_schedule_II.py) |
 | 5  | [Find whether path exists ](Graph/path_exists.py) | [solution](Graph/path_exists.py) |
 | 6  | [Shortest Path In Binary Matrix ](Graph/shortest_path_matrix.py) | [solution](Graph/shortest_path_matrix.py) |
+| 7  | [Redundant connection cycle in graph ](Trees2/Redundant_Connection_cycle_in_graph.py) | [solution](Trees2/Redundant_Connection_cycle_in_graph.py) |
 
 ## Stack and Queues
 |  # | Description               | Solution |
@@ -346,6 +350,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 3  | [Decode String](stacks_and_queues/decode_string.py) | [solution](stacks_and_queues/decode_string.py) |
 | 4  | [First non-repeating character in a stream](stacks_and_queues/first_non_repeating_stream.py) | [solution](stacks_and_queues/first_non_repeating_stream.py) |
 | 5  | [Remove All Adjacent Duplicates in String II](stacks_and_queues/remove_adjacent_duplicates_II.py) | [solution](stacks_and_queues/remove_adjacent_duplicates_II.py) |
+| 6  | [Validate Stack Sequence](stacks_and_queues/validate_stack_sequence.py) | [solution](stacks_and_queues/validate_stack_sequence.py) |
 
 ## Heap
 |  # | Description               | Solution |
