@@ -302,7 +302,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 128 | [Simplify Paths](Arrays/simplify_paths.py) | [solution](Arrays/simplify_paths.py) |
 | 129 | [Minimum Remove to Make Valid Parentheses](Arrays/minimum_remove_valid_parenthesis.py) | [solution](Arrays/minimum_remove_valid_parenthesis.py) |
 | 130 | [English word to Integer](Arrays/english_word_to_integer.py) | [solution](Arrays/english_word_to_integer.py) |
-| 129 | [Integer To English Word](Arrays/integer_to_english_word.py) | [solution](Arrays/integer_to_english_word.py) |
+| 131 | [Integer To English Word](Arrays/integer_to_english_word.py) | [solution](Arrays/integer_to_english_word.py) |
+| 132 | [Score of Parenthesis](Arrays/score_of_parenthesis.py) | [solution](Arrays/score_of_parenthesis.py) |
 
 
 ## Link List
