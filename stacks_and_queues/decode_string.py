@@ -24,30 +24,32 @@
 # Input: s = "abc3[cd]xyz"
 # Output: "abccdcdcdxyz"
 
-class Solution:
-    def decodeString(self, s: str) -> str:
-      st = []
-      for i in s:
-        if i != ']':
-          st.append(i)
-        else:
-          tmp = []
-          while st[-1] != '[':
-            tmp.append(st.pop())
-          
-          if st[-1] == '[':
-            st.pop()
-          
-          if st[-1].isdigit():
-            tmp1 = []
-            while st and st[-1].isdigit():
-              tmp1.append(st.pop())
-            tmp1.reverse()
-            numerical = int(''.join(tmp1))
-            tmp.reverse()
-            st.append(numerical * ''.join(tmp))
-        
-      return ''.join(st)
+
+def decodeString( s):
+  st = []
+  for i in s:
+    if i != ']':
+      st.append(i)
+    else:
+      tmp = []
+      while st[-1] != '[':
+        tmp.append(st.pop())
+      
+      if st[-1] == '[':
+        st.pop()
+      
+      if st[-1].isdigit():
+        tmp1 = []
+        while st and st[-1].isdigit():
+          tmp1.append(st.pop())
+        tmp1.reverse()
+        numerical = int(''.join(tmp1))
+        tmp.reverse()
+        st.append(numerical * ''.join(tmp))
+    
+  return ''.join(st)
+
+print(decodeString("3[a2[c]]"))
           
           
         
