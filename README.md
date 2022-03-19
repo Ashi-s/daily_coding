@@ -115,6 +115,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 61  | [Jump Game II](Recursion/jump_game_II.py) | [solution](Recursion/jump_game_II.py) |
 | 62  | [Number of Dice Rolls With Target Sum](Recursion/dice_roll_to_target.py) | [solution](Recursion/dice_roll_to_target.py) |
 | 63  | [Merge Sort](Recursion/merge_sort.py) | [solution](Recursion/merge_sort.py) |
+| 64  | [Word Break](Recursion/word_break.py) | [solution](Recursion/word_break.py) |
 
 ## Trees
 |  # | Description               | Solution |
@@ -132,7 +133,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 11  | [Maximum product of splitted binary tree ](Trees2/maximum_product_of_splitted_binary_tree.py) | [solution](Trees2/maximum_product_of_splitted_binary_tree.py) |
 | 12  | [N-ary tree level traversal ](Trees2/N-ary-level-traversal.py) | [solution](Trees2/N-ary-level-traversal.py) |
 | 13  | [Number of islands ](Trees2/number_of_islands.py) | [solution](Trees2/number_of_islands.py) |
-| 14  | [Path Sum II ](Trees2/path_sum_II.py) | [solution](Trees2/BFS_DFS.py) |
+| 14  | [Path Sum II ](Trees2/path_sum_II.py) | [solution](Trees2/path_sum_II.py) |
 | 15  | [Path Sum ](Trees2/pathSum.py) | [solution](Trees2/pathSum.py) |
 | 16  | [Redundant connection cycle in graph ](Trees2/Redundant_Connection_cycle_in_graph.py) | [solution](Trees2/Redundant_Connection_cycle_in_graph.py) |
 | 17  | [Smallest subtree with all deepest node ](Trees2/smallest_subtree_with_all_the_deepest_nodes.py) | [solution](Trees2/smallest_subtree_with_all_the_deepest_nodes.py) |
@@ -164,7 +165,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 43  | [ Bottom View of BT ](Trees2/bottom_view_bt.py) | [solution](Trees2/bottom_view_bt.py) |
 | 44  | [ Vertical Traversal BT ](Trees2/vertical_traversal.py) | [solution](Trees2/vertical_traversal.py) |
 | 45  | [ Find Bottom Left Tree Value ](Trees2/bottom_left_value.py) | [solution](Trees2/bottom_left_value.py) |
-| 45  | [ Lowest Common Ancestor of a Binary Tree ](Trees2/lowest_common_ancestor.py) | [solution](Trees2/lowest_common_ancestor.py) |
+| 46  | [ Lowest Common Ancestor of a Binary Tree ](Trees2/lowest_common_ancestor.py) | [solution](Trees2/lowest_common_ancestor.py) |
 
 
 
@@ -352,6 +353,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 4  | [First non-repeating character in a stream](stacks_and_queues/first_non_repeating_stream.py) | [solution](stacks_and_queues/first_non_repeating_stream.py) |
 | 5  | [Remove All Adjacent Duplicates in String II](stacks_and_queues/remove_adjacent_duplicates_II.py) | [solution](stacks_and_queues/remove_adjacent_duplicates_II.py) |
 | 6  | [Validate Stack Sequence](stacks_and_queues/validate_stack_sequence.py) | [solution](stacks_and_queues/validate_stack_sequence.py) |
+| 7  | [Maximum Frequency Stack](stacks_and_queues/max_freq_stack.py) | [solution](stacks_and_queues/max_freq_stack.py) |
 
 ## Heap
 |  # | Description               | Solution |
