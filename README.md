@@ -115,8 +115,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 61  | [Jump Game II](Recursion/jump_game_II.py) | [solution](Recursion/jump_game_II.py) |
 | 62  | [Number of Dice Rolls With Target Sum](Recursion/dice_roll_to_target.py) | [solution](Recursion/dice_roll_to_target.py) |
 | 63  | [Merge Sort](Recursion/merge_sort.py) | [solution](Recursion/merge_sort.py) |
-| 64  | [Word Break](Recursion/word_break.py) | [solution](Recursion/word_break.py) |
-
+| 64  | [Word Break](Recursion/word_break.py) | [solution](Recursion/word_break.py) |minimum_domino_rotation.py
+| 65  | [Minimum Domino Rotations For Equal Row](Recursion/minimum_domino_rotation.py) | [solution](Recursion/minimum_domino_rotation.py) |
 ## Trees
 |  # | Description               | Solution |
 |----|---------------------------|---------------------------|
