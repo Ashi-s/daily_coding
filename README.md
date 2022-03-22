@@ -117,6 +117,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 63  | [Merge Sort](Recursion/merge_sort.py) | [solution](Recursion/merge_sort.py) |
 | 64  | [Word Break](Recursion/word_break.py) | [solution](Recursion/word_break.py) |minimum_domino_rotation.py
 | 65  | [Minimum Domino Rotations For Equal Row](Recursion/minimum_domino_rotation.py) | [solution](Recursion/minimum_domino_rotation.py) |
+| 66  | [Smallest String With A Given Numeric Value](Recursion/smallest_string.py) | [solution](Recursion/smallest_string.py) |
 ## Trees
 |  # | Description               | Solution |
 |----|---------------------------|---------------------------|
