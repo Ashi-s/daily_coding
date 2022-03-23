@@ -307,6 +307,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 131 | [Integer To English Word](Arrays/integer_to_english_word.py) | [solution](Arrays/integer_to_english_word.py) |
 | 132 | [Score of Parenthesis](Arrays/score_of_parenthesis.py) | [solution](Arrays/score_of_parenthesis.py) |
 | 133 | [Partition Labels](Arrays/partition_labels.py) | [solution](Arrays/partition_labels.py) |
+| 134 | [Broken Calculator](Arrays/broken_calculator.py) | [solution](Arrays/broken_calculator.py) |
 
 
 ## Link List
