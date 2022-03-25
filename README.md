@@ -167,6 +167,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 44  | [ Vertical Traversal BT ](Trees2/vertical_traversal.py) | [solution](Trees2/vertical_traversal.py) |
 | 45  | [ Find Bottom Left Tree Value ](Trees2/bottom_left_value.py) | [solution](Trees2/bottom_left_value.py) |
 | 46  | [ Lowest Common Ancestor of a Binary Tree ](Trees2/lowest_common_ancestor.py) | [solution](Trees2/lowest_common_ancestor.py) |
+| 47  | [ Binary Tree Maximum Path Sum ](Trees2/bt_max_path_sum.py) | [solution](Trees2/bt_max_path_sum.py) |
 
 
 
@@ -309,6 +310,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 133 | [Partition Labels](Arrays/partition_labels.py) | [solution](Arrays/partition_labels.py) |
 | 134 | [Broken Calculator](Arrays/broken_calculator.py) | [solution](Arrays/broken_calculator.py) |
 | 135 | [Boats to Save People](Arrays/boat_to_save_people.py) | [solution](Arrays/boat_to_save_people.py) |
+| 136 | [Two City Scheduling](Arrays/two_city_scheduling.py) | [solution](Arrays/two_city_scheduling.py) |
 
 
 ## Link List
