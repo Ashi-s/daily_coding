@@ -379,6 +379,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 2  | [ Search Insert Position ](BinarySearch/search_insert_position.py) | [solution](BinarySearch/search_insert_position.py) |
 | 3  | [ Search Rotated Array ](BinarySearch/search_rotated_array.py) | [solution](BinarySearch/search_rotated_array.py) |
 | 4  | [ Range Frequency Queries ](BinarySearch/range_frequency_query.py) | [solution](BinarySearch/range_frequency_query.py) |
+| 5  | [ Binary Search ](BinarySearch/binary_search.py) | [solution](BinarySearch/binary_search.py) |
 ## Trie
 
 |  # | Description               | Solution |
