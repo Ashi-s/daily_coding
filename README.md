@@ -168,6 +168,8 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 45  | [ Find Bottom Left Tree Value ](Trees2/bottom_left_value.py) | [solution](Trees2/bottom_left_value.py) |
 | 46  | [ Lowest Common Ancestor of a Binary Tree ](Trees2/lowest_common_ancestor.py) | [solution](Trees2/lowest_common_ancestor.py) |
 | 47  | [ Binary Tree Maximum Path Sum ](Trees2/bt_max_path_sum.py) | [solution](Trees2/bt_max_path_sum.py) |
+| 48  | [ Validate Binary Search Tree ](Trees2/validate_bst.py) | [solution](Trees2/validate_bst.py) |
+| 49  | [ Lowest Common Ancestor of a Binary Search Tree ](Trees2/lowest_common_ancestor_bt.py) | [solution](Trees2/lowest_common_ancestor_bt.py) |
 
 
 
@@ -311,6 +313,11 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 134 | [Broken Calculator](Arrays/broken_calculator.py) | [solution](Arrays/broken_calculator.py) |
 | 135 | [Boats to Save People](Arrays/boat_to_save_people.py) | [solution](Arrays/boat_to_save_people.py) |
 | 136 | [Two City Scheduling](Arrays/two_city_scheduling.py) | [solution](Arrays/two_city_scheduling.py) |
+| 137 | [Container With Most Water](Arrays/container_water.py) | [solution](Arrays/container_water.py) |
+| 138 | [Rotate Image](Arrays/rotate_image.py) | [solution](Arrays/rotate_image.py) |
+| 139 | [The K Weakest Rows in a Matrix](Arrays/k_weakest_row.py) | [solution](Arrays/k_weakest_row.py) |
+| 140 | [Longest Repeating Character Replacement](Arrays/longest_repeating_replacement.py) | [solution](Arrays/longest_repeating_replacement.py) |
+| 141 | [Valid Anagram](Arrays/valid_anagram.py) | [solution](Arrays/valid_anagram.py) |
 
 
 ## Link List
