@@ -21,21 +21,52 @@
 # Input: nums = [1], target = 0
 # Output: -1
 
-class Solution:
-    def search(self, nums: List[int], target: int) -> int:
-      if len(nums) == 0:
-        return -1
+# class Solution:
+#     def search(self, nums: List[int], target: int) -> int:
+#       if len(nums) == 0:
+#         return -1
       
-      i = len(nums) // 2
-      j = len(nums) // 2 + 1
+#       i = len(nums) // 2
+#       j = len(nums) // 2 + 1
       
-      for k in range(len(nums)//2 + 1):
-        if nums[i] == target:
-          return i
-        elif j < len(nums) and nums[j] == target:
-          return j
+#       for k in range(len(nums)//2 + 1):
+#         if nums[i] == target:
+#           return i
+#         elif j < len(nums) and nums[j] == target:
+#           return j
         
-        i -= 1
-        j += 1
+#         i -= 1
+#         j += 1
       
-      return -1
+#       return -1
+
+
+def search( nums,target):
+  
+  left = 0
+  right = len(nums) - 1
+  
+  while left <= right:
+    mid = (left+right) // 2
+    
+    if nums[mid] == target:
+      return mid
+    
+    #left sorted
+    if nums[left] <= nums[mid]:
+      if target > nums[mid] or target < nums[left]:
+        left = mid+1
+      else:
+        right = mid-1
+    #right sorted
+    else:
+      if target > nums[right] or target < nums[mid]:
+        right = mid-1
+      else:
+        left = mid+1
+  
+  return -1
+
+nums = [4,5,6,7,0,1,2]
+target = 0
+print(search(nums, target))

@@ -318,6 +318,9 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 139 | [The K Weakest Rows in a Matrix](Arrays/k_weakest_row.py) | [solution](Arrays/k_weakest_row.py) |
 | 140 | [Longest Repeating Character Replacement](Arrays/longest_repeating_replacement.py) | [solution](Arrays/longest_repeating_replacement.py) |
 | 141 | [Valid Anagram](Arrays/valid_anagram.py) | [solution](Arrays/valid_anagram.py) |
+| 142 | [Non-overlapping Intervals](Arrays/non_overlapping_intervals.py) | [solution](Arrays/non_overlapping_intervals.py) |
+| 143 | [Insert Intervals](Arrays/insert_intervals.py) | [solution](Arrays/insert_intervals.py) |
+| 144 | [Search in Rotated Sorted Array II](Arrays/search_rotated_array_II.py) | [solution](Arrays/search_rotated_array_II.py) |
 
 
 ## Link List
@@ -356,6 +359,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 5  | [Find whether path exists ](Graph/path_exists.py) | [solution](Graph/path_exists.py) |
 | 6  | [Shortest Path In Binary Matrix ](Graph/shortest_path_matrix.py) | [solution](Graph/shortest_path_matrix.py) |
 | 7  | [Redundant connection cycle in graph ](Trees2/Redundant_Connection_cycle_in_graph.py) | [solution](Trees2/Redundant_Connection_cycle_in_graph.py) |
+| 8  | [Course Schedule ](Graph/course_schedule.py) | [solution](Graph/course_schedule.py) |
 
 ## Stack and Queues
 |  # | Description               | Solution |
