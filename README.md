@@ -169,7 +169,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 46  | [ Lowest Common Ancestor of a Binary Tree ](Trees2/lowest_common_ancestor.py) | [solution](Trees2/lowest_common_ancestor.py) |
 | 47  | [ Binary Tree Maximum Path Sum ](Trees2/bt_max_path_sum.py) | [solution](Trees2/bt_max_path_sum.py) |
 | 48  | [ Validate Binary Search Tree ](Trees2/validate_bst.py) | [solution](Trees2/validate_bst.py) |
-| 49  | [ Lowest Common Ancestor of a Binary Search Tree ](Trees2/lowest_common_ancestor_bt.py) | [solution](Trees2/lowest_common_ancestor_bt.py) |
+| 49  | [ Lowest Common Ancestor of a Binary Search Tree ](Trees2/lowest_common_ancestor_bst.py) | [solution](Trees2/lowest_common_ancestor_bst.py) |
 
 
 
@@ -321,6 +321,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 142 | [Non-overlapping Intervals](Arrays/non_overlapping_intervals.py) | [solution](Arrays/non_overlapping_intervals.py) |
 | 143 | [Insert Intervals](Arrays/insert_intervals.py) | [solution](Arrays/insert_intervals.py) |
 | 144 | [Search in Rotated Sorted Array II](Arrays/search_rotated_array_II.py) | [solution](Arrays/search_rotated_array_II.py) |
+| 145 | [Search a Matrix 2D](Arrays/search_2d_matrix.py) | [solution](Arrays/search_2d_matrix.py) |
 
 
 ## Link List
@@ -391,6 +392,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 3  | [ Search Rotated Array ](BinarySearch/search_rotated_array.py) | [solution](BinarySearch/search_rotated_array.py) |
 | 4  | [ Range Frequency Queries ](BinarySearch/range_frequency_query.py) | [solution](BinarySearch/range_frequency_query.py) |
 | 5  | [ Binary Search ](BinarySearch/binary_search.py) | [solution](BinarySearch/binary_search.py) |
+| 6  | [ Split Array Largest Sum ](BinarySearch/split_array_largest_sum.py) | [solution](BinarySearch/split_array_largest_sum.py) |
 ## Trie
 
 |  # | Description               | Solution |
