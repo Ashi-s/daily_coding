@@ -351,6 +351,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 20 | [Remove Duplicates from Sorted List II](LinkList/remove_duplicates_II.py) | [solution](LinkList/remove_duplicates_II.py) |
 | 21 | [Rotate List](LinkList/rotate_list.py) | [solution](LinkList/rotate_list.py) |
 | 22 | [Copy List with Random Pointer](LinkList/copy_list_with_random_pointer.py) | [solution](LinkList/copy_list_with_random_pointer.py) |
+| 23 | [Swapping Nodes in a Linked List](LinkList/swapping_nodes_in_ll.py) | [solution](LinkList/swapping_nodes_in_ll.py) |
 
 ## Graph
 |  # | Description               | Solution |
