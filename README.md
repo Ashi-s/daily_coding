@@ -324,6 +324,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 145 | [Search a Matrix 2D](Arrays/search_2d_matrix.py) | [solution](Arrays/search_2d_matrix.py) |
 | 146 | [Valid Palindrome II](Arrays/valid_palindrome_II.py) | [solution](Arrays/valid_palindrome_II.py) |
 | 147 | [Next Permutation](Arrays/next_permutation.py) | [solution](Arrays/next_permutation.py) |
+| 148 | [3Sum With Multiplicity](Arrays/3sum_with_mult.py) | [solution](Arrays/3sum_with_mult.py) |
 
 
 ## Link List
