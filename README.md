@@ -325,6 +325,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 146 | [Valid Palindrome II](Arrays/valid_palindrome_II.py) | [solution](Arrays/valid_palindrome_II.py) |
 | 147 | [Next Permutation](Arrays/next_permutation.py) | [solution](Arrays/next_permutation.py) |
 | 148 | [3Sum With Multiplicity](Arrays/3sum_with_mult.py) | [solution](Arrays/3sum_with_mult.py) |
+| 149 | [Last Stone Weight](Arrays/last_stone_weight.py) | [solution](Arrays/last_stone_weight.py) |
 
 
 ## Link List
