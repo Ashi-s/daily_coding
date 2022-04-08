@@ -382,6 +382,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 |  # | Description               | Solution |
 |----|---------------------------|---------------------------|
 | 1  | [Magical Candy Bag](Heap/magical_candy_bags.py) | [solution](Heap/magical_candy_bags.py) |
+| 2  | [Kth Largest Element in a Stream](Heap/kth_largest_in_stream.py) | [solution](Heap/kth_largest_in_stream.py) |
 ## Bit Manipulation
 |  # | Description               | Solution |
 |----|---------------------------|---------------------------|
