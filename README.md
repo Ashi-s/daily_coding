@@ -378,6 +378,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 5  | [Remove All Adjacent Duplicates in String II](stacks_and_queues/remove_adjacent_duplicates_II.py) | [solution](stacks_and_queues/remove_adjacent_duplicates_II.py) |
 | 6  | [Validate Stack Sequence](stacks_and_queues/validate_stack_sequence.py) | [solution](stacks_and_queues/validate_stack_sequence.py) |
 | 7  | [Maximum Frequency Stack](stacks_and_queues/max_freq_stack.py) | [solution](stacks_and_queues/max_freq_stack.py) |
+| 7  | [Shift 2D Grid](stacks_and_queues/shift_2d_grid.py) | [solution](stacks_and_queues/shift_2d_grid.py) |
 
 ## Heap
 |  # | Description               | Solution |
