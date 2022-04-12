@@ -327,6 +327,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 148 | [3Sum With Multiplicity](Arrays/3sum_with_mult.py) | [solution](Arrays/3sum_with_mult.py) |
 | 149 | [Last Stone Weight](Arrays/last_stone_weight.py) | [solution](Arrays/last_stone_weight.py) |
 | 150 | [Baseball Game](Arrays/baseball_game.py) | [solution](Arrays/baseball_game.py) |
+| 151 | [Game of Life](Arrays/game_of_life.py) | [solution](Arrays/game_of_life.py) |
 
 
 ## Link List
