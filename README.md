@@ -170,6 +170,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 47  | [ Binary Tree Maximum Path Sum ](Trees2/bt_max_path_sum.py) | [solution](Trees2/bt_max_path_sum.py) |
 | 48  | [ Validate Binary Search Tree ](Trees2/validate_bst.py) | [solution](Trees2/validate_bst.py) |
 | 49  | [ Lowest Common Ancestor of a Binary Search Tree ](Trees2/lowest_common_ancestor_bst.py) | [solution](Trees2/lowest_common_ancestor_bst.py) |
+| 50  | [ Search in a Binary Search Tree ](Trees2/search_in_bst.py) | [solution](Trees2/search_in_bst.py) |
 
 
 
