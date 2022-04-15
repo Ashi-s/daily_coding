@@ -171,6 +171,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 48  | [ Validate Binary Search Tree ](Trees2/validate_bst.py) | [solution](Trees2/validate_bst.py) |
 | 49  | [ Lowest Common Ancestor of a Binary Search Tree ](Trees2/lowest_common_ancestor_bst.py) | [solution](Trees2/lowest_common_ancestor_bst.py) |
 | 50  | [ Search in a Binary Search Tree ](Trees2/search_in_bst.py) | [solution](Trees2/search_in_bst.py) |
+| 51  | [ Trim a Binary Search Tree ](Trees2/trim_bst.py) | [solution](Trees2/trim_bst.py) |
 
 
 
