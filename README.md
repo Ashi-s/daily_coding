@@ -173,7 +173,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 50  | [ Search in a Binary Search Tree ](Trees2/search_in_bst.py) | [solution](Trees2/search_in_bst.py) |
 | 51  | [ Trim a Binary Search Tree ](Trees2/trim_bst.py) | [solution](Trees2/trim_bst.py) |
 | 52  | [ Convert BST to Greater Tree ](Trees2/bst_to_greater_tree.py) | [solution](Trees2/bst_to_greater_tree.py) |
-
+| 53  | [ Increasing Order Search Tre ](Trees2/increasing_order_search_tree.py) | [solution](Trees2/increasing_order_search_tree.py) |
 
 
 ## Arrays
