@@ -175,6 +175,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 52  | [ Convert BST to Greater Tree ](Trees2/bst_to_greater_tree.py) | [solution](Trees2/bst_to_greater_tree.py) |
 | 53  | [ Increasing Order Search Tre ](Trees2/increasing_order_search_tree.py) | [solution](Trees2/increasing_order_search_tree.py) |
 | 54  | [ Kth Smallest Element in a BST ](Trees2/kth_smallest_bst.py) | [solution](Trees2/kth_smallest_bst.py) |
+| 55  | [ Recover Binary Search Tree ](Trees2/recover_bst.py) | [solution](Trees2/recover_bst.py) |
 
 
 ## Arrays
