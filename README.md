@@ -334,8 +334,9 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 149 | [Last Stone Weight](Arrays/last_stone_weight.py) | [solution](Arrays/last_stone_weight.py) |
 | 150 | [Baseball Game](Arrays/baseball_game.py) | [solution](Arrays/baseball_game.py) |
 | 151 | [Game of Life](Arrays/game_of_life.py) | [solution](Arrays/game_of_life.py) |
-| 151 | [Encode and Decode TinyURL](Arrays/encode_decode_tinyurl.py) | [solution](Arrays/encode_decode_tinyurl.py) |
-| 151 | [Design Underground System](Arrays/design_underground_system.py) | [solution](Arrays/design_underground_system.py) |
+| 152 | [Encode and Decode TinyURL](Arrays/encode_decode_tinyurl.py) | [solution](Arrays/encode_decode_tinyurl.py) |
+| 153 | [Design Underground System](Arrays/design_underground_system.py) | [solution](Arrays/design_underground_system.py) |
+| 154 | [Peeking Iterator](Arrays/peeking_iterator.py) | [solution](Arrays/peeking_iterator.py) |
 
 
 ## Link List
