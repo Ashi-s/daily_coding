@@ -337,6 +337,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 152 | [Encode and Decode TinyURL](Arrays/encode_decode_tinyurl.py) | [solution](Arrays/encode_decode_tinyurl.py) |
 | 153 | [Design Underground System](Arrays/design_underground_system.py) | [solution](Arrays/design_underground_system.py) |
 | 154 | [Peeking Iterator](Arrays/peeking_iterator.py) | [solution](Arrays/peeking_iterator.py) |
+| 155 | [Path With Minimum Effort](Arrays/hike_path_min_effort.py) | [solution](Arrays/hike_path_min_effort.py) |
 
 
 ## Link List
