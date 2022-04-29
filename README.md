@@ -378,6 +378,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 6  | [Shortest Path In Binary Matrix ](Graph/shortest_path_matrix.py) | [solution](Graph/shortest_path_matrix.py) |
 | 7  | [Redundant connection cycle in graph ](Trees2/Redundant_Connection_cycle_in_graph.py) | [solution](Trees2/Redundant_Connection_cycle_in_graph.py) |
 | 8  | [Course Schedule ](Graph/course_schedule.py) | [solution](Graph/course_schedule.py) |
+| 9  | [Is Graph Bipartite? ](Graph/is_graph_bipartite.py) | [solution](Graph/is_graph_bipartite.py) |
 
 ## Stack and Queues
 |  # | Description               | Solution |
