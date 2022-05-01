@@ -338,6 +338,7 @@ I challenged myself to solve a coding problem daily, it can either be a newslett
 | 153 | [Design Underground System](Arrays/design_underground_system.py) | [solution](Arrays/design_underground_system.py) |
 | 154 | [Peeking Iterator](Arrays/peeking_iterator.py) | [solution](Arrays/peeking_iterator.py) |
 | 155 | [Path With Minimum Effort](Arrays/hike_path_min_effort.py) | [solution](Arrays/hike_path_min_effort.py) |
+| 156 | [Backspace String Compare](Arrays/backspace_string_compare.py) | [solution](Arrays/backspace_string_compare.py) |
 
 
 ## Link List
