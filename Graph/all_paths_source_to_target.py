@@ -26,18 +26,19 @@
 # Input: graph = [[1,3],[2],[3],[]]
 # Output: [[0,1,2,3],[0,3]]
  
-class Solution:
-    def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
-      res = []
-      def helper(i, tmp):
-        tmp.append(i)
-        if i == len(graph) - 1:
-          res.append(tmp.copy())
-        else:
-          for j in graph[i]:
-            helper(j, tmp)
-        tmp.pop()
-        
-      helper(0, [])
-      return res
-        
+
+def allPathsSourceTarget(graph):
+  res = []
+  def helper(i, tmp):
+    tmp.append(i)
+    if i == len(graph) - 1:
+      res.append(tmp.copy())
+    else:
+      for j in graph[i]:
+        helper(j, tmp)
+    tmp.pop()
+    
+  helper(0, [])
+  return res
+
+print(allPathsSourceTarget([[4,3,1],[3,2,4],[3],[4],[]]))
